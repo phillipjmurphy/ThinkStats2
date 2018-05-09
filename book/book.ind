@@ -1,0 +1,819 @@
+\begin{theindex}
+
+  \item abstraction, \hyperpage{70}
+  \item accuracy, \hyperpage{168}
+  \item acf, \hyperpage{185}
+  \item Adams, Cecil, \hyperpage{29}
+  \item addition, closed under, \hyperpage{218}
+  \item adult height, \hyperpage{91}
+  \item adult weight, \hyperpage{65}, \hyperpage{67}, \hyperpage{91}, 
+		\hyperpage{112}, \hyperpage{233}
+  \item age, \hyperpage{139}, \hyperpage{155, 156}, \hyperpage{159}, 
+		\hyperpage{167}, \hyperpage{200}, \hyperpage{202}
+  \item age group, \hyperpage{54}
+  \item aggregate, \hyperpage{175}
+  \item alpha, \hyperpage{93}
+  \item Anaconda, \hyperpage{ix}, \hyperpage{154}
+  \item analysis, \hyperpage{71}, \hyperpage{218}
+  \item analytic distribution, \hyperpage{57}, \hyperpage{73}, 
+		\hyperpage{230}
+  \item analytic methods, \hyperpage{217}
+  \item anecdotal evidence, \hyperpage{2}, \hyperpage{15}
+  \item apparent effect, \hyperpage{117}
+  \item artifact, \hyperpage{94}
+  \item at risk, \hyperpage{200}
+  \item Australia, \hyperpage{58}
+  \item autocorrelation function, \hyperpage{185}, \hyperpage{194}
+  \item average, \hyperpage{25}
+
+  \indexspace
+
+  \item bar plot, \hyperpage{33}
+  \item Bayesian inference, \hyperpage{117}
+  \item Bayesian statistics, \hyperpage{112}
+  \item Behavioral Risk Factor Surveillance System, \hyperpage{66}, 
+		\hyperpage{150}
+  \item betting pool, \hyperpage{159, 160}, \hyperpage{164}, 
+		\hyperpage{169}
+  \item bias, \hyperpage{85}
+    \subitem confirmation, \hyperpage{2}
+    \subitem observer, \hyperpage{37}, \hyperpage{41}, \hyperpage{43}
+    \subitem oversampling, \hyperpage{38}
+    \subitem sampling, \hyperpage{112}, \hyperpage{142}
+    \subitem selection, \hyperpage{2}, \hyperpage{42}
+  \item biased coin, \hyperpage{120}
+  \item biased estimator, \hyperpage{108--110}, \hyperpage{114--116}, 
+		\hyperpage{219}
+  \item binary, \hyperpage{166}
+  \item binary search, \hyperpage{82}
+  \item binning, \hyperpage{45}, \hyperpage{80}, \hyperpage{95}
+  \item birth time, \hyperpage{58}
+  \item birth weight, \hyperpage{8}, \hyperpage{22}, \hyperpage{45}, 
+		\hyperpage{50}, \hyperpage{52}, \hyperpage{55}, 
+		\hyperpage{61}, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{103}, \hyperpage{122}, \hyperpage{124}, 
+		\hyperpage{133, 134}, \hyperpage{139, 140}, 
+		\hyperpage{144}, \hyperpage{146}, \hyperpage{149}, 
+		\hyperpage{153}, \hyperpage{155--159}, 
+		\hyperpage{161, 162}, \hyperpage{228}, \hyperpage{233}
+  \item Blue Man Group, \hyperpage{71}
+  \item boolean, \hyperpage{12}, \hyperpage{20}, \hyperpage{92}, 
+		\hyperpage{157}, \hyperpage{162}, \hyperpage{164}, 
+		\hyperpage{166}, \hyperpage{186}, \hyperpage{196}
+  \item bracket operator, \hyperpage{18}, \hyperpage{20}, 
+		\hyperpage{32}, \hyperpage{49}
+  \item BRFSS, \hyperpage{66}, \hyperpage{91}, \hyperpage{101}, 
+		\hyperpage{150}
+  \item Brisbane, \hyperpage{58}
+  \item Bureau of Labor Statistics, \hyperpage{88}
+
+  \indexspace
+
+  \item cannabis, \hyperpage{173}
+  \item casino, \hyperpage{126}
+  \item categorical variable, \hyperpage{157}, \hyperpage{162, 163}, 
+		\hyperpage{167}, \hyperpage{170, 171}
+  \item causal relationship, \hyperpage{102}
+  \item causation, \hyperpage{102}
+  \item CCDF, \hyperpage{59}, \hyperpage{73}, \hyperpage{195}
+  \item CDF, \hyperpage{46}, \hyperpage{48}, \hyperpage{55}, 
+		\hyperpage{60}, \hyperpage{65}, \hyperpage{67}, 
+		\hyperpage{69}, \hyperpage{75}, \hyperpage{80}, 
+		\hyperpage{130}, \hyperpage{199}
+    \subitem complementary, \hyperpage{59}, \hyperpage{73}, 
+		\hyperpage{195}
+  \item Cdf, \hyperpage{49}, \hyperpage{51--53}, \hyperpage{60}, 
+		\hyperpage{79}, \hyperpage{82, 83}, \hyperpage{96}, 
+		\hyperpage{122}, \hyperpage{149}, \hyperpage{196}, 
+		\hyperpage{203}, \hyperpage{211}, \hyperpage{213}
+  \item CDF, interpreting, \hyperpage{50}
+  \item CDF, inverse, \hyperpage{49}, \hyperpage{55}, \hyperpage{69}, 
+		\hyperpage{82}, \hyperpage{219}, \hyperpage{226}
+  \item Census Bureau, \hyperpage{88}
+  \item Central Limit Theorem, \hyperpage{vi}, \hyperpage{222, 223}, 
+		\hyperpage{227--229}, \hyperpage{233}
+  \item central moment, \hyperpage{89}
+  \item central tendency, \hyperpage{25}, \hyperpage{30}, 
+		\hyperpage{51}, \hyperpage{85}
+  \item century month, \hyperpage{202}, \hyperpage{207}
+  \item chi-squared distribution, \hyperpage{231}
+  \item chi-squared statistic, \hyperpage{127}, \hyperpage{129}
+  \item chi-squared test, \hyperpage{125}, \hyperpage{127}, 
+		\hyperpage{135}, \hyperpage{231}
+  \item city size, \hyperpage{68}
+  \item class size, \hyperpage{35}
+  \item cleaning, \hyperpage{v}, \hyperpage{161}
+  \item clinically significant, \hyperpage{28}, \hyperpage{30}
+  \item clone, \hyperpage{viii}
+  \item closed form, \hyperpage{60}, \hyperpage{165}, \hyperpage{220}
+  \item CLT, \hyperpage{vi}, \hyperpage{222, 223}, \hyperpage{227--229}, 
+		\hyperpage{233}
+  \item coefficient of determination, \hyperpage{144--146}, 
+		\hyperpage{151}, \hyperpage{155}, \hyperpage{157--159}, 
+		\hyperpage{161}, \hyperpage{163}, \hyperpage{167}
+  \item cohort, \hyperpage{206}, \hyperpage{215}
+  \item cohort effect, \hyperpage{206}, \hyperpage{215}
+  \item complementary CDF, \hyperpage{59}, \hyperpage{73}, 
+		\hyperpage{195}, \hyperpage{203}
+  \item compression, \hyperpage{71}
+  \item computational methods, \hyperpage{vi}, \hyperpage{138}, 
+		\hyperpage{217}, \hyperpage{232}
+  \item confidence interval, \hyperpage{111}, \hyperpage{113}, 
+		\hyperpage{115, 116}, \hyperpage{143}, 
+		\hyperpage{149, 150}, \hyperpage{189}, \hyperpage{191}, 
+		\hyperpage{204, 205}, \hyperpage{218, 219}, 
+		\hyperpage{221}, \hyperpage{234}
+  \item confirmation bias, \hyperpage{2}
+  \item confirmatory result, \hyperpage{132}
+  \item continuous distribution, \hyperpage{79}
+  \item contradiction, proof by, \hyperpage{118}
+  \item contributors, \hyperpage{x}
+  \item control group, \hyperpage{103, 104}
+  \item control variable, \hyperpage{v}, \hyperpage{159}, 
+		\hyperpage{163}, \hyperpage{171}
+  \item controlled trial, \hyperpage{103}
+  \item correct positive, \hyperpage{131}
+  \item correlation, \hyperpage{v}, \hyperpage{96}, \hyperpage{98}, 
+		\hyperpage{100}, \hyperpage{102}, \hyperpage{104}, 
+		\hyperpage{124}, \hyperpage{138}, \hyperpage{226}, 
+		\hyperpage{229}
+    \subitem serial, \hyperpage{184}
+  \item cost function, \hyperpage{107}, \hyperpage{138}
+  \item Counter, \hyperpage{201}
+  \item covariance, \hyperpage{97}, \hyperpage{104}
+  \item crooked die, \hyperpage{126}
+  \item cross-sectional study, \hyperpage{3}, \hyperpage{15}
+  \item cumulative distribution function, \hyperpage{48}
+  \item cumulative probability, \hyperpage{55}, \hyperpage{79}, 
+		\hyperpage{82}
+  \item cumulative product, \hyperpage{203}
+  \item Current Population Survey, \hyperpage{88}
+  \item cycle, \hyperpage{3}
+
+  \indexspace
+
+  \item data collection, \hyperpage{2}
+  \item data mining, \hyperpage{162}, \hyperpage{169}, \hyperpage{171}
+  \item DataFrame, \hyperpage{5--7}, \hyperpage{10}, \hyperpage{12}, 
+		\hyperpage{14}, \hyperpage{20}, \hyperpage{23}, 
+		\hyperpage{39}, \hyperpage{41}, \hyperpage{43}, 
+		\hyperpage{58}, \hyperpage{89}, \hyperpage{92}, 
+		\hyperpage{96}, \hyperpage{122}, \hyperpage{133}, 
+		\hyperpage{142}, \hyperpage{149}, \hyperpage{154}, 
+		\hyperpage{160}, \hyperpage{167}, \hyperpage{169}, 
+		\hyperpage{171}, \hyperpage{174--176}, \hyperpage{178}, 
+		\hyperpage{181}, \hyperpage{186--188}, \hyperpage{196}, 
+		\hyperpage{205}, \hyperpage{207}
+  \item date of birth, \hyperpage{169}, \hyperpage{202}
+  \item date range, \hyperpage{181}
+  \item datetime64, \hyperpage{176}
+  \item DateTimeIndex, \hyperpage{207}
+  \item debugging, \hyperpage{vi}, \hyperpage{232}
+  \item decile, \hyperpage{52}
+  \item degrees of freedom, \hyperpage{109}, \hyperpage{229}, 
+		\hyperpage{232}
+  \item density, \hyperpage{75}, \hyperpage{78}
+  \item dependent variable, \hyperpage{153--155}, \hyperpage{158}, 
+		\hyperpage{163, 164}, \hyperpage{166, 167}, 
+		\hyperpage{170}, \hyperpage{179}
+  \item derivative, \hyperpage{75}
+  \item descriptive statistics, \hyperpage{2}
+  \item deviation, \hyperpage{26}, \hyperpage{97, 98}, 
+		\hyperpage{126, 127}, \hyperpage{137}, \hyperpage{147}, 
+		\hyperpage{231}
+  \item diagnosis, \hyperpage{199}
+  \item dice, \hyperpage{107}, \hyperpage{126}
+  \item dictionary, \hyperpage{17}, \hyperpage{81}
+  \item DictWrapper, \hyperpage{81, 82}
+  \item digitize, \hyperpage{95}
+  \item discrete distribution, \hyperpage{79}
+  \item discretize, \hyperpage{80}, \hyperpage{89}
+  \item distribution, \hyperpage{v}, \hyperpage{17}, \hyperpage{29}
+    \subitem analytic, \hyperpage{57}, \hyperpage{73}
+    \subitem chi-squared, \hyperpage{231}
+    \subitem empirical, \hyperpage{57}, \hyperpage{72, 73}
+    \subitem exponential, \hyperpage{57}, \hyperpage{62}, 
+		\hyperpage{69}, \hyperpage{72}, \hyperpage{75}, 
+		\hyperpage{80}, \hyperpage{113}, \hyperpage{115}, 
+		\hyperpage{222}
+    \subitem Gaussian, \hyperpage{60}, \hyperpage{62}, \hyperpage{67}, 
+		\hyperpage{71}, \hyperpage{75}, \hyperpage{80}, 
+		\hyperpage{97}, \hyperpage{101}, \hyperpage{105}, 
+		\hyperpage{107}, \hyperpage{217}, \hyperpage{221, 222}
+    \subitem lognormal, \hyperpage{65}, \hyperpage{67}, \hyperpage{73}, 
+		\hyperpage{102}, \hyperpage{222, 223}, \hyperpage{233}
+    \subitem normal, \hyperpage{60}, \hyperpage{62}, \hyperpage{67}, 
+		\hyperpage{71}, \hyperpage{75}, \hyperpage{80}, 
+		\hyperpage{97}, \hyperpage{101}, \hyperpage{105}, 
+		\hyperpage{107}, \hyperpage{217}, \hyperpage{221, 222}
+    \subitem Pareto, \hyperpage{67, 68}, \hyperpage{71--73}, 
+		\hyperpage{222, 223}
+    \subitem Student's t, \hyperpage{229}
+    \subitem uniform, \hyperpage{55}, \hyperpage{69}, \hyperpage{93}, 
+		\hyperpage{97}, \hyperpage{186}
+    \subitem Weibull, \hyperpage{72}
+  \item distribution framework, \hyperpage{79}
+  \item distributions, comparing, \hyperpage{50}
+  \item divorce, \hyperpage{214}
+  \item dot product, \hyperpage{98}
+  \item dropna, \hyperpage{87}, \hyperpage{95}, \hyperpage{125}, 
+		\hyperpage{139}, \hyperpage{147}, \hyperpage{183}
+
+  \indexspace
+
+  \item effect size, \hyperpage{27}, \hyperpage{30}, \hyperpage{122}, 
+		\hyperpage{130}, \hyperpage{134}
+  \item electrical component, \hyperpage{195}
+  \item empirical distribution, \hyperpage{57}, \hyperpage{72, 73}
+  \item endogenous variable, \hyperpage{167}, \hyperpage{170}, 
+		\hyperpage{179}
+  \item equally spaced data, \hyperpage{174}
+  \item error, \hyperpage{106}, \hyperpage{130}
+  \item EstimatedPdf, \hyperpage{78}
+  \item estimation, \hyperpage{v}, \hyperpage{3}, \hyperpage{105}, 
+		\hyperpage{116}, \hyperpage{142}
+  \item estimator, \hyperpage{105}, \hyperpage{107}
+    \subitem biased, \hyperpage{108--110}, \hyperpage{114, 115}, 
+		\hyperpage{219}
+    \subitem unbiased, \hyperpage{108}
+  \item ethics, \hyperpage{13}, \hyperpage{28, 29}, \hyperpage{103}, 
+		\hyperpage{173}, \hyperpage{204}
+  \item EWMA, \hyperpage{181}, \hyperpage{184}, \hyperpage{192, 193}
+  \item exogenous variable, \hyperpage{167}, \hyperpage{170}, 
+		\hyperpage{179}
+  \item expected remaining lifetime, \hyperpage{211}
+  \item explanatory variable, \hyperpage{153--155}, 
+		\hyperpage{157--159}, \hyperpage{161--164}, 
+		\hyperpage{167}, \hyperpage{170}, \hyperpage{178, 179}, 
+		\hyperpage{187}
+  \item exploration, \hyperpage{232}
+  \item exploratory data analysis, \hyperpage{2}, \hyperpage{35}
+  \item exponential distribution, \hyperpage{57}, \hyperpage{62}, 
+		\hyperpage{69}, \hyperpage{72}, \hyperpage{75}, 
+		\hyperpage{80}, \hyperpage{113}, \hyperpage{115}, 
+		\hyperpage{222}
+  \item exponentially-weighted moving average, \hyperpage{181}, 
+		\hyperpage{193}
+  \item extrapolation, \hyperpage{209}
+
+  \indexspace
+
+  \item false negative, \hyperpage{130}, \hyperpage{135}
+  \item false positive, \hyperpage{130}, \hyperpage{135}, 
+		\hyperpage{185}
+  \item field size, \hyperpage{54}
+  \item FillBetween, \hyperpage{143}, \hyperpage{190}, \hyperpage{205}
+  \item fillna, \hyperpage{182, 183}, \hyperpage{193}
+  \item first babies, \hyperpage{1}
+  \item FitLine, \hyperpage{139}
+  \item fitted values, \hyperpage{179}
+  \item fork, \hyperpage{viii}
+  \item frequency, \hyperpage{17, 18}, \hyperpage{29--31}, 
+		\hyperpage{43}, \hyperpage{81}, \hyperpage{83}, 
+		\hyperpage{126}
+
+  \indexspace
+
+  \item Gaussian distribution, \hyperpage{30}, \hyperpage{60}, 
+		\hyperpage{62}, \hyperpage{67}, \hyperpage{71}, 
+		\hyperpage{75}, \hyperpage{80}, \hyperpage{97}, 
+		\hyperpage{101}, \hyperpage{105}, \hyperpage{107}, 
+		\hyperpage{217}, \hyperpage{221, 222}
+  \item gender gap, \hyperpage{234}
+  \item generative process, \hyperpage{71}
+  \item Git, \hyperpage{viii}
+  \item GitHub, \hyperpage{viii}
+  \item goodness of fit, \hyperpage{144}, \hyperpage{151}
+  \item gorilla, \hyperpage{110}, \hyperpage{112}, \hyperpage{217}, 
+		\hyperpage{219, 220}
+  \item Group, Blue Man, \hyperpage{71}
+  \item groupby, \hyperpage{96}, \hyperpage{175}, \hyperpage{207}, 
+		\hyperpage{209}, \hyperpage{214}
+
+  \indexspace
+
+  \item hashable, \hyperpage{81}
+  \item hazard function, \hyperpage{198}, \hyperpage{200}, 
+		\hyperpage{202}, \hyperpage{214}
+  \item HazardFunction, \hyperpage{199}, \hyperpage{202}, 
+		\hyperpage{209}
+  \item height, \hyperpage{71, 72}, \hyperpage{93}
+  \item hexbin plot, \hyperpage{94}
+  \item Hist, \hyperpage{18--20}, \hyperpage{22--24}, \hyperpage{29}, 
+		\hyperpage{31--34}, \hyperpage{80--82}, 
+		\hyperpage{120}, \hyperpage{127}
+  \item histogram, \hyperpage{17, 18}, \hyperpage{20}, \hyperpage{22}, 
+		\hyperpage{29}
+  \item hockey, \hyperpage{115}
+  \item hockey stick graph, \hyperpage{173}
+  \item Holm-Bonferroni method, \hyperpage{132}
+  \item hstack, \hyperpage{128}
+  \item hypothesis testing, \hyperpage{v}, \hyperpage{3}, 
+		\hyperpage{117}, \hyperpage{134}, \hyperpage{227}
+  \item HypothesisTest, \hyperpage{119, 120}, \hyperpage{122}, 
+		\hyperpage{125, 126}, \hyperpage{128}, \hyperpage{146}, 
+		\hyperpage{192}
+
+  \indexspace
+
+  \item identical, \hyperpage{222}
+  \item income, \hyperpage{88}, \hyperpage{162, 163}
+  \item incomplete information, \hyperpage{199}
+  \item independent, \hyperpage{222}
+  \item Index, \hyperpage{6}, \hyperpage{207}
+  \item indexer
+    \subitem loc, \hyperpage{12}
+  \item inf, \hyperpage{213}
+  \item installation, \hyperpage{ix}
+  \item interarrival time, \hyperpage{58}, \hyperpage{73}
+  \item intercept, \hyperpage{138, 139}
+  \item internal class, \hyperpage{81}
+  \item interpolation, \hyperpage{79}
+  \item interquartile range, \hyperpage{51}, \hyperpage{56}
+  \item interval, \hyperpage{181}, \hyperpage{191}
+    \subitem confidence, \hyperpage{116}
+  \item inverse CDF, \hyperpage{49}, \hyperpage{55}, \hyperpage{69}, 
+		\hyperpage{82}, \hyperpage{219}, \hyperpage{226}
+  \item inverse CDF algorithm, \hyperpage{53}, \hyperpage{69}
+  \item IPython, \hyperpage{ix}, \hyperpage{13}
+  \item IQ, \hyperpage{145}
+  \item iterative solver, \hyperpage{166}
+  \item iterator, \hyperpage{226}
+
+  \indexspace
+
+  \item James Joyce Ramble, \hyperpage{54}
+  \item Janert, Philipp, \hyperpage{192}
+  \item jitter, \hyperpage{93}, \hyperpage{103}
+  \item join, \hyperpage{159, 160}, \hyperpage{171}
+
+  \indexspace
+
+  \item Kaplan-Meier estimation, \hyperpage{200}, \hyperpage{214}
+  \item KDE, \hyperpage{77}, \hyperpage{89}
+  \item kernel density estimation, \hyperpage{77}, \hyperpage{89}
+
+  \indexspace
+
+  \item lag, \hyperpage{184, 185}, \hyperpage{187}, \hyperpage{192}, 
+		\hyperpage{194}
+  \item least squares fit, \hyperpage{137}, \hyperpage{150}
+  \item LeastSquares, \hyperpage{139}
+  \item length
+    \subitem pregnancy, \hyperpage{24}, \hyperpage{33}, \hyperpage{117}, 
+		\hyperpage{121}
+  \item likelihood, \hyperpage{166}
+  \item line plot, \hyperpage{33}
+  \item linear algebra, \hyperpage{98}
+  \item linear fit, \hyperpage{v}, \hyperpage{150}
+  \item linear least squares, \hyperpage{137}
+  \item linear model, \hyperpage{146}, \hyperpage{192}
+  \item linear regression, \hyperpage{153}, \hyperpage{170}, 
+		\hyperpage{178}, \hyperpage{187}
+  \item linear relationship, \hyperpage{100}
+  \item linear transformation, \hyperpage{218}
+  \item loc indexer, \hyperpage{12}
+  \item log odds, \hyperpage{166}
+  \item logarithm, \hyperpage{233}
+  \item logarithmic scale, \hyperpage{59}
+  \item logistic regression, \hyperpage{164, 165}, \hyperpage{171}
+  \item logit function, \hyperpage{166}
+  \item lognormal distribution, \hyperpage{65}, \hyperpage{67}, 
+		\hyperpage{73}, \hyperpage{102}, \hyperpage{222, 223}, 
+		\hyperpage{233}
+  \item longitudinal study, \hyperpage{3}, \hyperpage{15}
+
+  \indexspace
+
+  \item MacKay, David, \hyperpage{120}
+  \item marital status, \hyperpage{170}, \hyperpage{200}, 
+		\hyperpage{202}, \hyperpage{208}, \hyperpage{214}
+  \item mass, \hyperpage{75}
+  \item matplotlib, \hyperpage{ix}, \hyperpage{19}
+  \item maximum likelihood estimator, \hyperpage{107}, \hyperpage{114}, 
+		\hyperpage{116}, \hyperpage{138}, \hyperpage{165}
+  \item mean, \hyperpage{25}, \hyperpage{41}, \hyperpage{60}, 
+		\hyperpage{97}, \hyperpage{105}, \hyperpage{113}, 
+		\hyperpage{222}
+    \subitem difference in, \hyperpage{119}, \hyperpage{121}
+    \subitem rolling, \hyperpage{180}
+  \item mean error, \hyperpage{109}
+  \item mean squared error, \hyperpage{106}, \hyperpage{116}
+  \item MeanVar, \hyperpage{99}
+  \item measurement error, \hyperpage{105}, \hyperpage{112, 113}, 
+		\hyperpage{116}, \hyperpage{138}, \hyperpage{142}, 
+		\hyperpage{205}
+  \item mechanical component, \hyperpage{195}
+  \item median, \hyperpage{51}, \hyperpage{56}, \hyperpage{106, 107}, 
+		\hyperpage{114}, \hyperpage{213}
+  \item medicine, \hyperpage{103}
+  \item memoryless, \hyperpage{213}
+  \item missing values, \hyperpage{9}, \hyperpage{125}, \hyperpage{176}, 
+		\hyperpage{181--183}, \hyperpage{193}
+  \item MLE, \hyperpage{107}, \hyperpage{114}, \hyperpage{116}, 
+		\hyperpage{138}, \hyperpage{165}
+  \item mode, \hyperpage{25}, \hyperpage{29, 30}
+  \item model, \hyperpage{57}, \hyperpage{60--62}, \hyperpage{64, 65}, 
+		\hyperpage{67, 68}, \hyperpage{70}, \hyperpage{73}, 
+		\hyperpage{79}, \hyperpage{89}, \hyperpage{118}, 
+		\hyperpage{120--122}, \hyperpage{127, 128}, 
+		\hyperpage{130}, \hyperpage{134}, \hyperpage{137}, 
+		\hyperpage{140, 141}, \hyperpage{144}, \hyperpage{146}, 
+		\hyperpage{150}, \hyperpage{153--155}, 
+		\hyperpage{157, 158}, \hyperpage{161--164}, 
+		\hyperpage{167--169}, \hyperpage{179, 180}, 
+		\hyperpage{189}, \hyperpage{191}, \hyperpage{194}, 
+		\hyperpage{233}
+  \item modeling error, \hyperpage{188}, \hyperpage{190}, 
+		\hyperpage{204}
+  \item moment, \hyperpage{84}
+  \item moment   of inertia, \hyperpage{85}
+  \item moving average, \hyperpage{180}, \hyperpage{193}
+  \item MSE, \hyperpage{106, 107}, \hyperpage{110}, \hyperpage{114}, 
+		\hyperpage{116}, \hyperpage{145}
+  \item multiple birth, \hyperpage{162}
+  \item multiple regression, \hyperpage{v}, \hyperpage{153}, 
+		\hyperpage{156}, \hyperpage{170}
+  \item multiple tests, \hyperpage{132}
+
+  \indexspace
+
+  \item NaN, \hyperpage{9}, \hyperpage{12}, \hyperpage{20}, 
+		\hyperpage{87}, \hyperpage{95}, \hyperpage{125}, 
+		\hyperpage{139}, \hyperpage{147}, \hyperpage{161}, 
+		\hyperpage{183, 184}, \hyperpage{202}
+  \item National Survey of Family Growth, \hyperpage{3}, \hyperpage{35}, 
+		\hyperpage{45}, \hyperpage{50}, \hyperpage{61}, 
+		\hyperpage{117}, \hyperpage{121}, \hyperpage{133}
+  \item natural experiment, \hyperpage{103, 104}
+  \item NBUE, \hyperpage{213}, \hyperpage{215}
+  \item Newsweek, \hyperpage{204}, \hyperpage{208}
+  \item Newton's method, \hyperpage{166}
+  \item noise, \hyperpage{93}, \hyperpage{180, 181}, \hyperpage{183}, 
+		\hyperpage{188}, \hyperpage{190}, \hyperpage{203}
+  \item nonlinear, \hyperpage{100, 101}, \hyperpage{141}, 
+		\hyperpage{158}, \hyperpage{192}
+  \item Normal, \hyperpage{220}, \hyperpage{228}
+  \item normal distribution, \hyperpage{30}, \hyperpage{60--62}, 
+		\hyperpage{67}, \hyperpage{71}, \hyperpage{75}, 
+		\hyperpage{80}, \hyperpage{97}, \hyperpage{101}, 
+		\hyperpage{105}, \hyperpage{107}, \hyperpage{217}, 
+		\hyperpage{220--222}
+  \item normal probability plot, \hyperpage{62}, \hyperpage{65}, 
+		\hyperpage{67, 68}, \hyperpage{73}, \hyperpage{223}, 
+		\hyperpage{226}
+  \item normalization, \hyperpage{31}, \hyperpage{43}
+  \item NSFG, \hyperpage{3}, \hyperpage{35}, \hyperpage{45}, 
+		\hyperpage{49, 50}, \hyperpage{61}, \hyperpage{117}, 
+		\hyperpage{121}, \hyperpage{132, 133}, \hyperpage{159}
+  \item null hypothesis, \hyperpage{117--119}, \hyperpage{121, 122}, 
+		\hyperpage{124}, \hyperpage{127--130}, 
+		\hyperpage{133--135}, \hyperpage{146, 147}, 
+		\hyperpage{227--229}, \hyperpage{231--233}
+  \item NumPy, \hyperpage{ix}, \hyperpage{7}, \hyperpage{13}, 
+		\hyperpage{39}, \hyperpage{63}, \hyperpage{77, 78}, 
+		\hyperpage{84}, \hyperpage{93}, \hyperpage{95}, 
+		\hyperpage{98}, \hyperpage{122}, \hyperpage{167, 168}, 
+		\hyperpage{174}, \hyperpage{176}, \hyperpage{179}, 
+		\hyperpage{223}, \hyperpage{229}
+
+  \indexspace
+
+  \item observer bias, \hyperpage{37}, \hyperpage{41}, \hyperpage{43}
+  \item odds, \hyperpage{164}, \hyperpage{171}
+  \item one-sided test, \hyperpage{123}, \hyperpage{134}, 
+		\hyperpage{228}
+  \item ordinary least squares, \hyperpage{154}, \hyperpage{164}, 
+		\hyperpage{171}
+  \item orthogonal vector, \hyperpage{98}
+  \item outlier, \hyperpage{22, 23}, \hyperpage{25}, \hyperpage{30}, 
+		\hyperpage{86, 87}, \hyperpage{93, 94}, \hyperpage{97}, 
+		\hyperpage{101}, \hyperpage{106}, \hyperpage{114}
+  \item oversampling, \hyperpage{4}, \hyperpage{16}, \hyperpage{38}, 
+		\hyperpage{149, 150}
+
+  \indexspace
+
+  \item p-value, \hyperpage{vi}, \hyperpage{118}, \hyperpage{121, 122}, 
+		\hyperpage{124, 125}, \hyperpage{127}, \hyperpage{130}, 
+		\hyperpage{132--134}, \hyperpage{147}, \hyperpage{155}, 
+		\hyperpage{157}, \hyperpage{159}, \hyperpage{163}, 
+		\hyperpage{167}, \hyperpage{178}, \hyperpage{185}, 
+		\hyperpage{192}, \hyperpage{227, 228}, 
+		\hyperpage{230--232}
+  \item pandas, \hyperpage{ix}, \hyperpage{5, 6}, \hyperpage{9}, 
+		\hyperpage{18}, \hyperpage{20}, \hyperpage{26}, 
+		\hyperpage{39}, \hyperpage{43}, \hyperpage{64}, 
+		\hyperpage{95}, \hyperpage{98}, \hyperpage{101}, 
+		\hyperpage{160}, \hyperpage{167}, \hyperpage{174}, 
+		\hyperpage{180, 181}, \hyperpage{184}, \hyperpage{187}, 
+		\hyperpage{198}, \hyperpage{207}, \hyperpage{209}
+  \item parabola, \hyperpage{158}
+  \item parameter, \hyperpage{57}, \hyperpage{60}, \hyperpage{65}, 
+		\hyperpage{67}, \hyperpage{71}, \hyperpage{105}, 
+		\hyperpage{113}, \hyperpage{138, 139}, \hyperpage{142}, 
+		\hyperpage{147}, \hyperpage{154, 155}, 
+		\hyperpage{164, 165}, \hyperpage{187}, \hyperpage{190}
+  \item Pareto distribution, \hyperpage{67, 68}, \hyperpage{71--73}, 
+		\hyperpage{222, 223}
+  \item Pareto World, \hyperpage{72}
+  \item Pareto, Vilfredo, \hyperpage{67}
+  \item Patsy, \hyperpage{154}, \hyperpage{162}, \hyperpage{167}
+  \item PDF, \hyperpage{75}, \hyperpage{89}
+  \item Pdf, \hyperpage{79}
+  \item Pearson coefficient of correlation, \hyperpage{96}, 
+		\hyperpage{99--103}, \hyperpage{124, 125}, 
+		\hyperpage{145}, \hyperpage{229}
+  \item Pearson median skewness, \hyperpage{86}, \hyperpage{88}, 
+		\hyperpage{90}
+  \item Pearson, Karl, \hyperpage{99}
+  \item percent point function, \hyperpage{226}
+  \item percentile, \hyperpage{47}, \hyperpage{51}, \hyperpage{55}, 
+		\hyperpage{61}, \hyperpage{96}, \hyperpage{220}
+  \item percentile rank, \hyperpage{46--48}, \hyperpage{51, 52}, 
+		\hyperpage{54, 55}, \hyperpage{96}
+  \item permutation, \hyperpage{121}, \hyperpage{124, 125}, 
+		\hyperpage{131}, \hyperpage{133, 134}, 
+		\hyperpage{146, 147}, \hyperpage{228}, \hyperpage{232}
+  \item permutation test, \hyperpage{134}
+  \item plot
+    \subitem bar, \hyperpage{33}
+    \subitem hexbin, \hyperpage{94}
+    \subitem line, \hyperpage{33}
+    \subitem normal probability, \hyperpage{62}, \hyperpage{73}
+    \subitem scatter, \hyperpage{91}, \hyperpage{100}, \hyperpage{140}
+  \item PMF, \hyperpage{31}, \hyperpage{33}, \hyperpage{41}, 
+		\hyperpage{43}, \hyperpage{45}
+  \item Pmf, \hyperpage{31}, \hyperpage{33}, \hyperpage{35}, 
+		\hyperpage{42}, \hyperpage{76}, \hyperpage{78, 79}, 
+		\hyperpage{81}, \hyperpage{83}, \hyperpage{211}, 
+		\hyperpage{214}
+  \item point estimation, \hyperpage{116}
+  \item Poisson regression, \hyperpage{164}, \hyperpage{170, 171}
+  \item population, \hyperpage{4}, \hyperpage{15}, \hyperpage{68}, 
+		\hyperpage{110}
+  \item power, \hyperpage{131}, \hyperpage{135}
+  \item prediction, \hyperpage{99}, \hyperpage{107}, 
+		\hyperpage{144, 145}, \hyperpage{161}, \hyperpage{187}, 
+		\hyperpage{192, 193}, \hyperpage{208}
+  \item predictive power, \hyperpage{155}, \hyperpage{161}
+  \item preferential attachment, \hyperpage{71}
+  \item pregnancy length, \hyperpage{2}, \hyperpage{8}, 
+		\hyperpage{22--24}, \hyperpage{27--29}, \hyperpage{33}, 
+		\hyperpage{49}, \hyperpage{64}, \hyperpage{117, 118}, 
+		\hyperpage{121--123}, \hyperpage{128}, \hyperpage{131}, 
+		\hyperpage{133, 134}, \hyperpage{161}, \hyperpage{196}, 
+		\hyperpage{198, 199}, \hyperpage{210--212}, 
+		\hyperpage{214}, \hyperpage{227}
+  \item price, \hyperpage{174}, \hyperpage{178}, \hyperpage{188}
+  \item Price of Weed, \hyperpage{173}
+  \item probability, \hyperpage{31}, \hyperpage{43}, \hyperpage{164}
+  \item probability density, \hyperpage{89}
+  \item probability density function, \hyperpage{75}, \hyperpage{89}
+  \item probability mass function, \hyperpage{31}, \hyperpage{43}
+  \item product, \hyperpage{233}
+  \item proof by contradiction, \hyperpage{118}
+  \item property, \hyperpage{197}
+  \item proxy variable, \hyperpage{171}
+  \item pseudo r-squared, \hyperpage{167, 168}
+  \item pumpkin, \hyperpage{26}
+  \item pyplot, \hyperpage{19}, \hyperpage{33}, \hyperpage{176}
+
+  \indexspace
+
+  \item quadratic model, \hyperpage{158}, \hyperpage{192}
+  \item quantile, \hyperpage{52}, \hyperpage{56}
+  \item quantize, \hyperpage{80}
+  \item quartile, \hyperpage{51}
+  \item query, \hyperpage{196}
+  \item quintile, \hyperpage{52}
+
+  \indexspace
+
+  \item r-squared, \hyperpage{144--146}, \hyperpage{155}, 
+		\hyperpage{157--159}, \hyperpage{161}, \hyperpage{163}, 
+		\hyperpage{167}
+  \item race, \hyperpage{160}, \hyperpage{162, 163}, \hyperpage{167}
+  \item race time, \hyperpage{54}
+  \item random module, \hyperpage{70}, \hyperpage{72}
+  \item random number, \hyperpage{52, 53}, \hyperpage{55}, 
+		\hyperpage{62}, \hyperpage{69}, \hyperpage{72}, 
+		\hyperpage{112}, \hyperpage{226}
+  \item randomized controlled trial, \hyperpage{103, 104}
+  \item rank, \hyperpage{96}, \hyperpage{101}, \hyperpage{104}
+  \item rank correlation, \hyperpage{101}
+  \item raw data, \hyperpage{8}, \hyperpage{16}
+  \item raw moment, \hyperpage{89}
+  \item recode, \hyperpage{8}, \hyperpage{16}
+  \item record, \hyperpage{15}
+  \item regression, \hyperpage{153}, \hyperpage{170}
+  \item regression analysis, \hyperpage{103}
+  \item regression model, \hyperpage{153}, \hyperpage{159}, 
+		\hyperpage{164, 165}
+  \item RegressionResults, \hyperpage{154}
+  \item reindex, \hyperpage{181}, \hyperpage{193}
+  \item relay race, \hyperpage{42}
+  \item replacement, \hyperpage{52}, \hyperpage{56}, \hyperpage{92}, 
+		\hyperpage{131}, \hyperpage{134}, \hyperpage{142}, 
+		\hyperpage{149}
+  \item repository, \hyperpage{viii}
+  \item representative, \hyperpage{4}, \hyperpage{16}
+  \item Resample, \hyperpage{131}
+  \item resampling, \hyperpage{134}, \hyperpage{142}, \hyperpage{149}, 
+		\hyperpage{183}, \hyperpage{186}, \hyperpage{188, 189}, 
+		\hyperpage{205}, \hyperpage{207}, \hyperpage{214}, 
+		\hyperpage{217}, \hyperpage{229}, \hyperpage{231, 232}
+    \subitem weighted, \hyperpage{148}
+  \item resampling test, \hyperpage{134}
+  \item residuals, \hyperpage{137}, \hyperpage{140}, \hyperpage{150}, 
+		\hyperpage{155}, \hyperpage{180}, \hyperpage{187}, 
+		\hyperpage{189}
+  \item respondent, \hyperpage{4}, \hyperpage{16}, \hyperpage{67}
+  \item RMSE, \hyperpage{106}, \hyperpage{114}, \hyperpage{155}
+  \item robust, \hyperpage{86, 87}, \hyperpage{90}, \hyperpage{97}, 
+		\hyperpage{101}, \hyperpage{114}, \hyperpage{232}
+  \item rolling mean, \hyperpage{180}, \hyperpage{193}
+
+  \indexspace
+
+  \item sample, \hyperpage{16}, \hyperpage{48}, \hyperpage{110}
+  \item sample mean, \hyperpage{110}, \hyperpage{115}
+  \item sample median, \hyperpage{114, 115}
+  \item sample size, \hyperpage{110}, \hyperpage{133}, \hyperpage{221}
+  \item sample skewness, \hyperpage{85}, \hyperpage{90}
+  \item sample variance, \hyperpage{26}, \hyperpage{108}
+  \item SampleRows, \hyperpage{92}
+  \item sampling bias, \hyperpage{112, 113}, \hyperpage{116}, 
+		\hyperpage{142}
+  \item sampling distribution, \hyperpage{111, 112}, 
+		\hyperpage{115, 116}, \hyperpage{142}, \hyperpage{147}, 
+		\hyperpage{149}, \hyperpage{218, 219}, \hyperpage{221}, 
+		\hyperpage{227--229}, \hyperpage{231}, 
+		\hyperpage{233, 234}
+  \item sampling error, \hyperpage{110}, \hyperpage{142}, 
+		\hyperpage{187}, \hyperpage{190}, \hyperpage{204}, 
+		\hyperpage{207}
+  \item sampling weight, \hyperpage{148}, \hyperpage{150, 151}, 
+		\hyperpage{205}
+  \item SAT, \hyperpage{145}
+  \item saturation, \hyperpage{93}, \hyperpage{104}
+  \item scatter plot, \hyperpage{91}, \hyperpage{100}, \hyperpage{103}, 
+		\hyperpage{140}
+  \item SciPy, \hyperpage{ix}, \hyperpage{60}, \hyperpage{71}, 
+		\hyperpage{76, 77}, \hyperpage{220}, 
+		\hyperpage{229--231}
+  \item seasonality, \hyperpage{180}, \hyperpage{182}, \hyperpage{184}
+  \item selection bias, \hyperpage{2}, \hyperpage{42}
+  \item self-selection, \hyperpage{113}
+  \item sensitivity, \hyperpage{131}
+  \item serial correlation, \hyperpage{184}, \hyperpage{194}
+  \item Series, \hyperpage{6}, \hyperpage{10}, \hyperpage{12, 13}, 
+		\hyperpage{20}, \hyperpage{40}, \hyperpage{64}, 
+		\hyperpage{101}, \hyperpage{155}, \hyperpage{180}, 
+		\hyperpage{182}, \hyperpage{186}, \hyperpage{193}, 
+		\hyperpage{198}, \hyperpage{209}
+  \item sex, \hyperpage{161}, \hyperpage{164}
+  \item sex ratio, \hyperpage{166}, \hyperpage{169}
+  \item shape, \hyperpage{51}
+  \item significant, \hyperpage{28}, \hyperpage{118}, 
+		\hyperpage{121, 122}, \hyperpage{124--130}, 
+		\hyperpage{132--134}, \hyperpage{146}, \hyperpage{148}, 
+		\hyperpage{155}, \hyperpage{158}, \hyperpage{163}, 
+		\hyperpage{168, 169}, \hyperpage{178}, \hyperpage{185}, 
+		\hyperpage{187}, \hyperpage{192}, \hyperpage{228}, 
+		\hyperpage{234}
+  \item simple regression, \hyperpage{153}, \hyperpage{170}
+  \item simulation, \hyperpage{79}, \hyperpage{110}, \hyperpage{120}, 
+		\hyperpage{142}, \hyperpage{186}, \hyperpage{191}, 
+		\hyperpage{220}
+  \item skewness, \hyperpage{85}, \hyperpage{87, 88}, \hyperpage{90}, 
+		\hyperpage{97}, \hyperpage{101, 102}, \hyperpage{147}, 
+		\hyperpage{222, 223}
+  \item slope, \hyperpage{138, 139}, \hyperpage{191}, \hyperpage{193}
+  \item smoothing, \hyperpage{70}, \hyperpage{79}, \hyperpage{181}
+  \item soccer, \hyperpage{115}
+  \item span, \hyperpage{182}, \hyperpage{194}
+  \item Spearman coefficient of correlation, \hyperpage{96}, 
+		\hyperpage{101--103}, \hyperpage{124}
+  \item spread, \hyperpage{25}, \hyperpage{30}, \hyperpage{51}
+  \item spurious relationship, \hyperpage{102}, \hyperpage{156}, 
+		\hyperpage{171}
+  \item SQL, \hyperpage{159}
+  \item squared residuals, \hyperpage{138}
+  \item standard deviation, \hyperpage{26}, \hyperpage{30}, 
+		\hyperpage{60}, \hyperpage{64, 65}, \hyperpage{67}, 
+		\hyperpage{77}, \hyperpage{85, 86}, \hyperpage{96, 97}, 
+		\hyperpage{99}, \hyperpage{104}, \hyperpage{110}, 
+		\hyperpage{112}, \hyperpage{124}, \hyperpage{128}, 
+		\hyperpage{144}, \hyperpage{155}, \hyperpage{218, 219}, 
+		\hyperpage{221}, \hyperpage{226}, \hyperpage{234}
+    \subitem pooled, \hyperpage{27}
+  \item standard error, \hyperpage{111}, \hyperpage{113}, 
+		\hyperpage{115, 116}, \hyperpage{143}, 
+		\hyperpage{149, 150}, \hyperpage{218, 219}, 
+		\hyperpage{234}
+  \item standard normal distribution, \hyperpage{73}, \hyperpage{226}
+  \item standard score, \hyperpage{96}, \hyperpage{98}, \hyperpage{104}
+  \item standardize, \hyperpage{97}, \hyperpage{104}
+  \item standardized moment, \hyperpage{85}, \hyperpage{90}
+  \item stationary model, \hyperpage{190}, \hyperpage{194}
+  \item statistically significant, \hyperpage{118}, 
+		\hyperpage{121, 122}, \hyperpage{124--130}, 
+		\hyperpage{132--134}, \hyperpage{146}, \hyperpage{148}, 
+		\hyperpage{155}, \hyperpage{158}, \hyperpage{163}, 
+		\hyperpage{168, 169}, \hyperpage{178}, \hyperpage{185}, 
+		\hyperpage{187}, \hyperpage{192}, \hyperpage{228}, 
+		\hyperpage{234}
+  \item StatsModels, \hyperpage{ix}, \hyperpage{154}, \hyperpage{166}, 
+		\hyperpage{170}, \hyperpage{178}, \hyperpage{185}
+  \item step function, \hyperpage{49}
+  \item Straight Dope, The, \hyperpage{29}
+  \item Student's t-distribution, \hyperpage{229}
+  \item study
+    \subitem cross-sectional, \hyperpage{3}, \hyperpage{15}
+    \subitem longitudinal, \hyperpage{3}, \hyperpage{15}
+  \item sum, \hyperpage{221}
+  \item summary statistic, \hyperpage{25}, \hyperpage{30}, 
+		\hyperpage{51}
+  \item survival analysis, \hyperpage{195}, \hyperpage{214}
+  \item survival curve, \hyperpage{195}, \hyperpage{199}, 
+		\hyperpage{201}, \hyperpage{214}
+  \item survival rate, \hyperpage{195}
+  \item SurvivalFunction, \hyperpage{196}, \hyperpage{203}
+  \item symmetric, \hyperpage{86}, \hyperpage{147}, \hyperpage{228}
+
+  \indexspace
+
+  \item tail, \hyperpage{25}, \hyperpage{30}, \hyperpage{231}
+  \item telephone sampling, \hyperpage{112}
+  \item test
+    \subitem one-sided, \hyperpage{134}
+    \subitem two-sided, \hyperpage{134}
+  \item test statistic, \hyperpage{118, 119}, \hyperpage{123, 124}, 
+		\hyperpage{127}, \hyperpage{134}, \hyperpage{231}
+  \item theory, \hyperpage{162}
+  \item thinkplot, \hyperpage{19, 20}, \hyperpage{24}, 
+		\hyperpage{33--35}, \hyperpage{37}, \hyperpage{50}, 
+		\hyperpage{52}, \hyperpage{58}, \hyperpage{60}, 
+		\hyperpage{64}, \hyperpage{77, 78}, \hyperpage{86, 87}, 
+		\hyperpage{92--94}, \hyperpage{96}, \hyperpage{122}, 
+		\hyperpage{143}, \hyperpage{176}, \hyperpage{197}, 
+		\hyperpage{223}
+  \item threshold, \hyperpage{130}
+  \item ticks, \hyperpage{176}
+  \item time series, \hyperpage{173}, \hyperpage{192, 193}
+  \item transaction, \hyperpage{174}
+  \item transparency, \hyperpage{93}
+  \item treatment group, \hyperpage{103, 104}
+  \item trend, \hyperpage{179, 180}
+  \item trimester, \hyperpage{197}
+  \item Trivers-Willard hypothesis, \hyperpage{169}
+  \item true negative, \hyperpage{168}
+  \item true positive, \hyperpage{168}
+  \item two-sided test, \hyperpage{123}, \hyperpage{134}, 
+		\hyperpage{228}
+
+  \indexspace
+
+  \item U.S.~Census Bureau, \hyperpage{68}
+  \item UBNE, \hyperpage{213}, \hyperpage{215}
+  \item unbiased estimator, \hyperpage{108}
+  \item underpowered, \hyperpage{132}
+  \item uniform distribution, \hyperpage{30}, \hyperpage{55}, 
+		\hyperpage{69}, \hyperpage{93}, \hyperpage{97}, 
+		\hyperpage{186}
+  \item units, \hyperpage{96}, \hyperpage{98}
+
+  \indexspace
+
+  \item variance, \hyperpage{26}, \hyperpage{30}, \hyperpage{41}, 
+		\hyperpage{107}, \hyperpage{222}
+  \item visualization, \hyperpage{v}, \hyperpage{35}, \hyperpage{79}, 
+		\hyperpage{141}, \hyperpage{176}, \hyperpage{210}
+
+  \indexspace
+
+  \item wealth, \hyperpage{162}
+  \item Weibull distribution, \hyperpage{72}
+  \item weight, \hyperpage{93}, \hyperpage{148}, \hyperpage{156}, 
+		\hyperpage{163}, \hyperpage{179}, \hyperpage{219}
+    \subitem adult, \hyperpage{65}, \hyperpage{67}
+    \subitem birth, \hyperpage{8}, \hyperpage{22}, \hyperpage{45}, 
+		\hyperpage{50}, \hyperpage{52}, \hyperpage{55}, 
+		\hyperpage{61}, \hyperpage{63}, \hyperpage{65}, 
+		\hyperpage{103}, \hyperpage{122}, \hyperpage{124}, 
+		\hyperpage{133, 134}, \hyperpage{139, 140}, 
+		\hyperpage{144}, \hyperpage{146}, \hyperpage{149}, 
+		\hyperpage{153}, \hyperpage{155--159}, 
+		\hyperpage{161, 162}, \hyperpage{228}, \hyperpage{233}
+    \subitem pumpkin, \hyperpage{26}
+    \subitem sample, \hyperpage{8}
+  \item weighted resampling, \hyperpage{148}, \hyperpage{205}
+  \item window, \hyperpage{180--182}, \hyperpage{193}
+  \item wrapper, \hyperpage{81}, \hyperpage{198}, \hyperpage{220}
+
+  \indexspace
+
+  \item xticks, \hyperpage{176}
+
+\end{theindex}

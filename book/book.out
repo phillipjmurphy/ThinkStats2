@@ -1,0 +1,158 @@
+\BOOKMARK [0][-]{chapter*.1}{Preface}{}% 1
+\BOOKMARK [1][-]{section.0.1}{How I wrote this book}{chapter*.1}% 2
+\BOOKMARK [1][-]{section.0.2}{Using the code}{chapter*.1}% 3
+\BOOKMARK [0][-]{chapter.1}{Exploratory data analysis}{}% 4
+\BOOKMARK [1][-]{section.1.1}{A statistical approach}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{The National Survey of Family Growth}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Importing the data}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{DataFrames}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Variables}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.6}{Transformation}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.7}{Validation}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.8}{Interpretation}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.9}{Exercises}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.10}{Glossary}{chapter.1}% 14
+\BOOKMARK [0][-]{chapter.2}{Distributions}{}% 15
+\BOOKMARK [1][-]{section.2.1}{Histograms}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.2}{Representing histograms}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Plotting histograms}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.4}{NSFG variables}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.5}{Outliers}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.6}{First babies}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.7}{Summarizing distributions}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.8}{Variance}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.9}{Effect size}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.10}{Reporting results}{chapter.2}% 25
+\BOOKMARK [1][-]{section.2.11}{Exercises}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.12}{Glossary}{chapter.2}% 27
+\BOOKMARK [0][-]{chapter.3}{Probability mass functions}{}% 28
+\BOOKMARK [1][-]{section.3.1}{Pmfs}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.2}{Plotting PMFs}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.3}{Other visualizations}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.4}{The class size paradox}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.5}{DataFrame indexing}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.6}{Exercises}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.7}{Glossary}{chapter.3}% 35
+\BOOKMARK [0][-]{chapter.4}{Cumulative distribution functions}{}% 36
+\BOOKMARK [1][-]{section.4.1}{The limits of PMFs}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.2}{Percentiles}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.3}{CDFs}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.4}{Representing CDFs}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.5}{Comparing CDFs}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.6}{Percentile-based statistics}{chapter.4}% 42
+\BOOKMARK [1][-]{section.4.7}{Random numbers}{chapter.4}% 43
+\BOOKMARK [1][-]{section.4.8}{Comparing percentile ranks}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.9}{Exercises}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.10}{Glossary}{chapter.4}% 46
+\BOOKMARK [0][-]{chapter.5}{Modeling distributions}{}% 47
+\BOOKMARK [1][-]{section.5.1}{The exponential distribution}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{The normal distribution}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.3}{Normal probability plot}{chapter.5}% 50
+\BOOKMARK [1][-]{section.5.4}{The lognormal distribution}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.5}{The Pareto distribution}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.6}{Generating random numbers}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.7}{Why model?}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.8}{Exercises}{chapter.5}% 55
+\BOOKMARK [1][-]{section.5.9}{Glossary}{chapter.5}% 56
+\BOOKMARK [0][-]{chapter.6}{Probability density functions}{}% 57
+\BOOKMARK [1][-]{section.6.1}{PDFs}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.2}{Kernel density estimation}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.3}{The distribution framework}{chapter.6}% 60
+\BOOKMARK [1][-]{section.6.4}{Hist implementation}{chapter.6}% 61
+\BOOKMARK [1][-]{section.6.5}{Pmf implementation}{chapter.6}% 62
+\BOOKMARK [1][-]{section.6.6}{Cdf implementation}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.7}{Moments}{chapter.6}% 64
+\BOOKMARK [1][-]{section.6.8}{Skewness}{chapter.6}% 65
+\BOOKMARK [1][-]{section.6.9}{Exercises}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.10}{Glossary}{chapter.6}% 67
+\BOOKMARK [0][-]{chapter.7}{Relationships between variables}{}% 68
+\BOOKMARK [1][-]{section.7.1}{Scatter plots}{chapter.7}% 69
+\BOOKMARK [1][-]{section.7.2}{Characterizing relationships}{chapter.7}% 70
+\BOOKMARK [1][-]{section.7.3}{Correlation}{chapter.7}% 71
+\BOOKMARK [1][-]{section.7.4}{Covariance}{chapter.7}% 72
+\BOOKMARK [1][-]{section.7.5}{Pearson's correlation}{chapter.7}% 73
+\BOOKMARK [1][-]{section.7.6}{Nonlinear relationships}{chapter.7}% 74
+\BOOKMARK [1][-]{section.7.7}{Spearman's rank correlation}{chapter.7}% 75
+\BOOKMARK [1][-]{section.7.8}{Correlation and causation}{chapter.7}% 76
+\BOOKMARK [1][-]{section.7.9}{Exercises}{chapter.7}% 77
+\BOOKMARK [1][-]{section.7.10}{Glossary}{chapter.7}% 78
+\BOOKMARK [0][-]{chapter.8}{Estimation}{}% 79
+\BOOKMARK [1][-]{section.8.1}{The estimation game}{chapter.8}% 80
+\BOOKMARK [1][-]{section.8.2}{Guess the variance}{chapter.8}% 81
+\BOOKMARK [1][-]{section.8.3}{Sampling distributions}{chapter.8}% 82
+\BOOKMARK [1][-]{section.8.4}{Sampling bias}{chapter.8}% 83
+\BOOKMARK [1][-]{section.8.5}{Exponential distributions}{chapter.8}% 84
+\BOOKMARK [1][-]{section.8.6}{Exercises}{chapter.8}% 85
+\BOOKMARK [1][-]{section.8.7}{Glossary}{chapter.8}% 86
+\BOOKMARK [0][-]{chapter.9}{Hypothesis testing}{}% 87
+\BOOKMARK [1][-]{section.9.1}{Classical hypothesis testing}{chapter.9}% 88
+\BOOKMARK [1][-]{section.9.2}{HypothesisTest}{chapter.9}% 89
+\BOOKMARK [1][-]{section.9.3}{Testing a difference in means}{chapter.9}% 90
+\BOOKMARK [1][-]{section.9.4}{Other test statistics}{chapter.9}% 91
+\BOOKMARK [1][-]{section.9.5}{Testing a correlation}{chapter.9}% 92
+\BOOKMARK [1][-]{section.9.6}{Testing proportions}{chapter.9}% 93
+\BOOKMARK [1][-]{section.9.7}{Chi-squared tests}{chapter.9}% 94
+\BOOKMARK [1][-]{section.9.8}{First babies again}{chapter.9}% 95
+\BOOKMARK [1][-]{section.9.9}{Errors}{chapter.9}% 96
+\BOOKMARK [1][-]{section.9.10}{Power}{chapter.9}% 97
+\BOOKMARK [1][-]{section.9.11}{Replication}{chapter.9}% 98
+\BOOKMARK [1][-]{section.9.12}{Exercises}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.13}{Glossary}{chapter.9}% 100
+\BOOKMARK [0][-]{chapter.10}{Linear least squares}{}% 101
+\BOOKMARK [1][-]{section.10.1}{Least squares fit}{chapter.10}% 102
+\BOOKMARK [1][-]{section.10.2}{Implementation}{chapter.10}% 103
+\BOOKMARK [1][-]{section.10.3}{Residuals}{chapter.10}% 104
+\BOOKMARK [1][-]{section.10.4}{Estimation}{chapter.10}% 105
+\BOOKMARK [1][-]{section.10.5}{Goodness of fit}{chapter.10}% 106
+\BOOKMARK [1][-]{section.10.6}{Testing a linear model}{chapter.10}% 107
+\BOOKMARK [1][-]{section.10.7}{Weighted resampling}{chapter.10}% 108
+\BOOKMARK [1][-]{section.10.8}{Exercises}{chapter.10}% 109
+\BOOKMARK [1][-]{section.10.9}{Glossary}{chapter.10}% 110
+\BOOKMARK [0][-]{chapter.11}{Regression}{}% 111
+\BOOKMARK [1][-]{section.11.1}{StatsModels}{chapter.11}% 112
+\BOOKMARK [1][-]{section.11.2}{Multiple regression}{chapter.11}% 113
+\BOOKMARK [1][-]{section.11.3}{Nonlinear relationships}{chapter.11}% 114
+\BOOKMARK [1][-]{section.11.4}{Data mining}{chapter.11}% 115
+\BOOKMARK [1][-]{section.11.5}{Prediction}{chapter.11}% 116
+\BOOKMARK [1][-]{section.11.6}{Logistic regression}{chapter.11}% 117
+\BOOKMARK [1][-]{section.11.7}{Estimating parameters}{chapter.11}% 118
+\BOOKMARK [1][-]{section.11.8}{Implementation}{chapter.11}% 119
+\BOOKMARK [1][-]{section.11.9}{Accuracy}{chapter.11}% 120
+\BOOKMARK [1][-]{section.11.10}{Exercises}{chapter.11}% 121
+\BOOKMARK [1][-]{section.11.11}{Glossary}{chapter.11}% 122
+\BOOKMARK [0][-]{chapter.12}{Time series analysis}{}% 123
+\BOOKMARK [1][-]{section.12.1}{Importing and cleaning}{chapter.12}% 124
+\BOOKMARK [1][-]{section.12.2}{Plotting}{chapter.12}% 125
+\BOOKMARK [1][-]{section.12.3}{Linear regression}{chapter.12}% 126
+\BOOKMARK [1][-]{section.12.4}{Moving averages}{chapter.12}% 127
+\BOOKMARK [1][-]{section.12.5}{Missing values}{chapter.12}% 128
+\BOOKMARK [1][-]{section.12.6}{Serial correlation}{chapter.12}% 129
+\BOOKMARK [1][-]{section.12.7}{Autocorrelation}{chapter.12}% 130
+\BOOKMARK [1][-]{section.12.8}{Prediction}{chapter.12}% 131
+\BOOKMARK [1][-]{section.12.9}{Further reading}{chapter.12}% 132
+\BOOKMARK [1][-]{section.12.10}{Exercises}{chapter.12}% 133
+\BOOKMARK [1][-]{section.12.11}{Glossary}{chapter.12}% 134
+\BOOKMARK [0][-]{chapter.13}{Survival analysis}{}% 135
+\BOOKMARK [1][-]{section.13.1}{Survival curves}{chapter.13}% 136
+\BOOKMARK [1][-]{section.13.2}{Hazard function}{chapter.13}% 137
+\BOOKMARK [1][-]{section.13.3}{Inferring survival curves}{chapter.13}% 138
+\BOOKMARK [1][-]{section.13.4}{Kaplan-Meier estimation}{chapter.13}% 139
+\BOOKMARK [1][-]{section.13.5}{The marriage curve}{chapter.13}% 140
+\BOOKMARK [1][-]{section.13.6}{Estimating the survival curve}{chapter.13}% 141
+\BOOKMARK [1][-]{section.13.7}{Confidence intervals}{chapter.13}% 142
+\BOOKMARK [1][-]{section.13.8}{Cohort effects}{chapter.13}% 143
+\BOOKMARK [1][-]{section.13.9}{Extrapolation}{chapter.13}% 144
+\BOOKMARK [1][-]{section.13.10}{Expected remaining lifetime}{chapter.13}% 145
+\BOOKMARK [1][-]{section.13.11}{Exercises}{chapter.13}% 146
+\BOOKMARK [1][-]{section.13.12}{Glossary}{chapter.13}% 147
+\BOOKMARK [0][-]{chapter.14}{Analytic methods}{}% 148
+\BOOKMARK [1][-]{section.14.1}{Normal distributions}{chapter.14}% 149
+\BOOKMARK [1][-]{section.14.2}{Sampling distributions}{chapter.14}% 150
+\BOOKMARK [1][-]{section.14.3}{Representing normal distributions}{chapter.14}% 151
+\BOOKMARK [1][-]{section.14.4}{Central limit theorem}{chapter.14}% 152
+\BOOKMARK [1][-]{section.14.5}{Testing the CLT}{chapter.14}% 153
+\BOOKMARK [1][-]{section.14.6}{Applying the CLT}{chapter.14}% 154
+\BOOKMARK [1][-]{section.14.7}{Correlation test}{chapter.14}% 155
+\BOOKMARK [1][-]{section.14.8}{Chi-squared test}{chapter.14}% 156
+\BOOKMARK [1][-]{section.14.9}{Discussion}{chapter.14}% 157
+\BOOKMARK [1][-]{section.14.10}{Exercises}{chapter.14}% 158

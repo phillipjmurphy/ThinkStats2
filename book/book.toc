@@ -1,0 +1,158 @@
+\contentsline {chapter}{Preface}{v}{chapter*.1}
+\contentsline {section}{\numberline {0.1}How I wrote this book}{vii}{section.0.1}
+\contentsline {section}{\numberline {0.2}Using the code}{viii}{section.0.2}
+\contentsline {chapter}{\numberline {1}Exploratory data analysis}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}A statistical approach}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}The National Survey of Family Growth}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Importing the data}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}DataFrames}{5}{section.1.4}
+\contentsline {section}{\numberline {1.5}Variables}{7}{section.1.5}
+\contentsline {section}{\numberline {1.6}Transformation}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}Validation}{10}{section.1.7}
+\contentsline {section}{\numberline {1.8}Interpretation}{12}{section.1.8}
+\contentsline {section}{\numberline {1.9}Exercises}{13}{section.1.9}
+\contentsline {section}{\numberline {1.10}Glossary}{15}{section.1.10}
+\contentsline {chapter}{\numberline {2}Distributions}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Histograms}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Representing histograms}{18}{section.2.2}
+\contentsline {section}{\numberline {2.3}Plotting histograms}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}NSFG variables}{19}{section.2.4}
+\contentsline {section}{\numberline {2.5}Outliers}{22}{section.2.5}
+\contentsline {section}{\numberline {2.6}First babies}{23}{section.2.6}
+\contentsline {section}{\numberline {2.7}Summarizing distributions}{25}{section.2.7}
+\contentsline {section}{\numberline {2.8}Variance}{26}{section.2.8}
+\contentsline {section}{\numberline {2.9}Effect size}{27}{section.2.9}
+\contentsline {section}{\numberline {2.10}Reporting results}{28}{section.2.10}
+\contentsline {section}{\numberline {2.11}Exercises}{28}{section.2.11}
+\contentsline {section}{\numberline {2.12}Glossary}{29}{section.2.12}
+\contentsline {chapter}{\numberline {3}Probability mass functions}{31}{chapter.3}
+\contentsline {section}{\numberline {3.1}Pmfs}{31}{section.3.1}
+\contentsline {section}{\numberline {3.2}Plotting PMFs}{33}{section.3.2}
+\contentsline {section}{\numberline {3.3}Other visualizations}{35}{section.3.3}
+\contentsline {section}{\numberline {3.4}The class size paradox}{35}{section.3.4}
+\contentsline {section}{\numberline {3.5}DataFrame indexing}{39}{section.3.5}
+\contentsline {section}{\numberline {3.6}Exercises}{41}{section.3.6}
+\contentsline {section}{\numberline {3.7}Glossary}{43}{section.3.7}
+\contentsline {chapter}{\numberline {4}Cumulative distribution functions}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}The limits of PMFs}{45}{section.4.1}
+\contentsline {section}{\numberline {4.2}Percentiles}{46}{section.4.2}
+\contentsline {section}{\numberline {4.3}CDFs}{48}{section.4.3}
+\contentsline {section}{\numberline {4.4}Representing CDFs}{49}{section.4.4}
+\contentsline {section}{\numberline {4.5}Comparing CDFs}{50}{section.4.5}
+\contentsline {section}{\numberline {4.6}Percentile-based statistics}{51}{section.4.6}
+\contentsline {section}{\numberline {4.7}Random numbers}{52}{section.4.7}
+\contentsline {section}{\numberline {4.8}Comparing percentile ranks}{54}{section.4.8}
+\contentsline {section}{\numberline {4.9}Exercises}{55}{section.4.9}
+\contentsline {section}{\numberline {4.10}Glossary}{55}{section.4.10}
+\contentsline {chapter}{\numberline {5}Modeling distributions}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}The exponential distribution}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}The normal distribution}{60}{section.5.2}
+\contentsline {section}{\numberline {5.3}Normal probability plot}{62}{section.5.3}
+\contentsline {section}{\numberline {5.4}The lognormal distribution}{65}{section.5.4}
+\contentsline {section}{\numberline {5.5}The Pareto distribution}{67}{section.5.5}
+\contentsline {section}{\numberline {5.6}Generating random numbers}{69}{section.5.6}
+\contentsline {section}{\numberline {5.7}Why model?}{70}{section.5.7}
+\contentsline {section}{\numberline {5.8}Exercises}{71}{section.5.8}
+\contentsline {section}{\numberline {5.9}Glossary}{73}{section.5.9}
+\contentsline {chapter}{\numberline {6}Probability density functions}{75}{chapter.6}
+\contentsline {section}{\numberline {6.1}PDFs}{75}{section.6.1}
+\contentsline {section}{\numberline {6.2}Kernel density estimation}{77}{section.6.2}
+\contentsline {section}{\numberline {6.3}The distribution framework}{79}{section.6.3}
+\contentsline {section}{\numberline {6.4}Hist implementation}{80}{section.6.4}
+\contentsline {section}{\numberline {6.5}Pmf implementation}{81}{section.6.5}
+\contentsline {section}{\numberline {6.6}Cdf implementation}{82}{section.6.6}
+\contentsline {section}{\numberline {6.7}Moments}{84}{section.6.7}
+\contentsline {section}{\numberline {6.8}Skewness}{85}{section.6.8}
+\contentsline {section}{\numberline {6.9}Exercises}{88}{section.6.9}
+\contentsline {section}{\numberline {6.10}Glossary}{89}{section.6.10}
+\contentsline {chapter}{\numberline {7}Relationships between variables}{91}{chapter.7}
+\contentsline {section}{\numberline {7.1}Scatter plots}{91}{section.7.1}
+\contentsline {section}{\numberline {7.2}Characterizing relationships}{95}{section.7.2}
+\contentsline {section}{\numberline {7.3}Correlation}{96}{section.7.3}
+\contentsline {section}{\numberline {7.4}Covariance}{97}{section.7.4}
+\contentsline {section}{\numberline {7.5}Pearson's correlation}{98}{section.7.5}
+\contentsline {section}{\numberline {7.6}Nonlinear relationships}{100}{section.7.6}
+\contentsline {section}{\numberline {7.7}Spearman's rank correlation}{101}{section.7.7}
+\contentsline {section}{\numberline {7.8}Correlation and causation}{102}{section.7.8}
+\contentsline {section}{\numberline {7.9}Exercises}{103}{section.7.9}
+\contentsline {section}{\numberline {7.10}Glossary}{103}{section.7.10}
+\contentsline {chapter}{\numberline {8}Estimation}{105}{chapter.8}
+\contentsline {section}{\numberline {8.1}The estimation game}{105}{section.8.1}
+\contentsline {section}{\numberline {8.2}Guess the variance}{107}{section.8.2}
+\contentsline {section}{\numberline {8.3}Sampling distributions}{109}{section.8.3}
+\contentsline {section}{\numberline {8.4}Sampling bias}{112}{section.8.4}
+\contentsline {section}{\numberline {8.5}Exponential distributions}{113}{section.8.5}
+\contentsline {section}{\numberline {8.6}Exercises}{115}{section.8.6}
+\contentsline {section}{\numberline {8.7}Glossary}{116}{section.8.7}
+\contentsline {chapter}{\numberline {9}Hypothesis testing}{117}{chapter.9}
+\contentsline {section}{\numberline {9.1}Classical hypothesis testing}{117}{section.9.1}
+\contentsline {section}{\numberline {9.2}HypothesisTest}{119}{section.9.2}
+\contentsline {section}{\numberline {9.3}Testing a difference in means}{121}{section.9.3}
+\contentsline {section}{\numberline {9.4}Other test statistics}{123}{section.9.4}
+\contentsline {section}{\numberline {9.5}Testing a correlation}{124}{section.9.5}
+\contentsline {section}{\numberline {9.6}Testing proportions}{125}{section.9.6}
+\contentsline {section}{\numberline {9.7}Chi-squared tests}{127}{section.9.7}
+\contentsline {section}{\numberline {9.8}First babies again}{128}{section.9.8}
+\contentsline {section}{\numberline {9.9}Errors}{130}{section.9.9}
+\contentsline {section}{\numberline {9.10}Power}{130}{section.9.10}
+\contentsline {section}{\numberline {9.11}Replication}{132}{section.9.11}
+\contentsline {section}{\numberline {9.12}Exercises}{133}{section.9.12}
+\contentsline {section}{\numberline {9.13}Glossary}{134}{section.9.13}
+\contentsline {chapter}{\numberline {10}Linear least squares}{137}{chapter.10}
+\contentsline {section}{\numberline {10.1}Least squares fit}{137}{section.10.1}
+\contentsline {section}{\numberline {10.2}Implementation}{139}{section.10.2}
+\contentsline {section}{\numberline {10.3}Residuals}{140}{section.10.3}
+\contentsline {section}{\numberline {10.4}Estimation}{141}{section.10.4}
+\contentsline {section}{\numberline {10.5}Goodness of fit}{144}{section.10.5}
+\contentsline {section}{\numberline {10.6}Testing a linear model}{146}{section.10.6}
+\contentsline {section}{\numberline {10.7}Weighted resampling}{148}{section.10.7}
+\contentsline {section}{\numberline {10.8}Exercises}{150}{section.10.8}
+\contentsline {section}{\numberline {10.9}Glossary}{150}{section.10.9}
+\contentsline {chapter}{\numberline {11}Regression}{153}{chapter.11}
+\contentsline {section}{\numberline {11.1}StatsModels}{154}{section.11.1}
+\contentsline {section}{\numberline {11.2}Multiple regression}{156}{section.11.2}
+\contentsline {section}{\numberline {11.3}Nonlinear relationships}{158}{section.11.3}
+\contentsline {section}{\numberline {11.4}Data mining}{159}{section.11.4}
+\contentsline {section}{\numberline {11.5}Prediction}{161}{section.11.5}
+\contentsline {section}{\numberline {11.6}Logistic regression}{163}{section.11.6}
+\contentsline {section}{\numberline {11.7}Estimating parameters}{165}{section.11.7}
+\contentsline {section}{\numberline {11.8}Implementation}{166}{section.11.8}
+\contentsline {section}{\numberline {11.9}Accuracy}{168}{section.11.9}
+\contentsline {section}{\numberline {11.10}Exercises}{169}{section.11.10}
+\contentsline {section}{\numberline {11.11}Glossary}{170}{section.11.11}
+\contentsline {chapter}{\numberline {12}Time series analysis}{173}{chapter.12}
+\contentsline {section}{\numberline {12.1}Importing and cleaning}{174}{section.12.1}
+\contentsline {section}{\numberline {12.2}Plotting}{176}{section.12.2}
+\contentsline {section}{\numberline {12.3}Linear regression}{178}{section.12.3}
+\contentsline {section}{\numberline {12.4}Moving averages}{180}{section.12.4}
+\contentsline {section}{\numberline {12.5}Missing values}{182}{section.12.5}
+\contentsline {section}{\numberline {12.6}Serial correlation}{183}{section.12.6}
+\contentsline {section}{\numberline {12.7}Autocorrelation}{185}{section.12.7}
+\contentsline {section}{\numberline {12.8}Prediction}{187}{section.12.8}
+\contentsline {section}{\numberline {12.9}Further reading}{192}{section.12.9}
+\contentsline {section}{\numberline {12.10}Exercises}{192}{section.12.10}
+\contentsline {section}{\numberline {12.11}Glossary}{193}{section.12.11}
+\contentsline {chapter}{\numberline {13}Survival analysis}{195}{chapter.13}
+\contentsline {section}{\numberline {13.1}Survival curves}{195}{section.13.1}
+\contentsline {section}{\numberline {13.2}Hazard function}{198}{section.13.2}
+\contentsline {section}{\numberline {13.3}Inferring survival curves}{199}{section.13.3}
+\contentsline {section}{\numberline {13.4}Kaplan-Meier estimation}{200}{section.13.4}
+\contentsline {section}{\numberline {13.5}The marriage curve}{202}{section.13.5}
+\contentsline {section}{\numberline {13.6}Estimating the survival curve}{203}{section.13.6}
+\contentsline {section}{\numberline {13.7}Confidence intervals}{204}{section.13.7}
+\contentsline {section}{\numberline {13.8}Cohort effects}{206}{section.13.8}
+\contentsline {section}{\numberline {13.9}Extrapolation}{209}{section.13.9}
+\contentsline {section}{\numberline {13.10}Expected remaining lifetime}{210}{section.13.10}
+\contentsline {section}{\numberline {13.11}Exercises}{214}{section.13.11}
+\contentsline {section}{\numberline {13.12}Glossary}{214}{section.13.12}
+\contentsline {chapter}{\numberline {14}Analytic methods}{217}{chapter.14}
+\contentsline {section}{\numberline {14.1}Normal distributions}{217}{section.14.1}
+\contentsline {section}{\numberline {14.2}Sampling distributions}{219}{section.14.2}
+\contentsline {section}{\numberline {14.3}Representing normal distributions}{220}{section.14.3}
+\contentsline {section}{\numberline {14.4}Central limit theorem}{221}{section.14.4}
+\contentsline {section}{\numberline {14.5}Testing the CLT}{222}{section.14.5}
+\contentsline {section}{\numberline {14.6}Applying the CLT}{227}{section.14.6}
+\contentsline {section}{\numberline {14.7}Correlation test}{228}{section.14.7}
+\contentsline {section}{\numberline {14.8}Chi-squared test}{230}{section.14.8}
+\contentsline {section}{\numberline {14.9}Discussion}{232}{section.14.9}
+\contentsline {section}{\numberline {14.10}Exercises}{233}{section.14.10}

@@ -1,0 +1,1818 @@
+\indexentry{cleaning|hyperpage}{v}
+\indexentry{distribution|hyperpage}{v}
+\indexentry{correlation|hyperpage}{v}
+\indexentry{linear fit|hyperpage}{v}
+\indexentry{multiple regression|hyperpage}{v}
+\indexentry{control variable|hyperpage}{v}
+\indexentry{estimation|hyperpage}{v}
+\indexentry{hypothesis testing|hyperpage}{v}
+\indexentry{visualization|hyperpage}{v}
+\indexentry{computational methods|hyperpage}{vi}
+\indexentry{debugging|hyperpage}{vi}
+\indexentry{Central Limit Theorem|hyperpage}{vi}
+\indexentry{CLT|hyperpage}{vi}
+\indexentry{p-value|hyperpage}{vi}
+\indexentry{repository|hyperpage}{viii}
+\indexentry{Git|hyperpage}{viii}
+\indexentry{GitHub|hyperpage}{viii}
+\indexentry{fork|hyperpage}{viii}
+\indexentry{clone|hyperpage}{viii}
+\indexentry{Anaconda|hyperpage}{ix}
+\indexentry{pandas|hyperpage}{ix}
+\indexentry{NumPy|hyperpage}{ix}
+\indexentry{SciPy|hyperpage}{ix}
+\indexentry{StatsModels|hyperpage}{ix}
+\indexentry{matplotlib|hyperpage}{ix}
+\indexentry{installation|hyperpage}{ix}
+\indexentry{IPython|hyperpage}{ix}
+\indexentry{contributors|hyperpage}{x}
+\indexentry{first babies|hyperpage}{1}
+\indexentry{anecdotal evidence|hyperpage}{2}
+\indexentry{pregnancy length|hyperpage}{2}
+\indexentry{selection bias|hyperpage}{2}
+\indexentry{bias!selection|hyperpage}{2}
+\indexentry{confirmation bias|hyperpage}{2}
+\indexentry{bias!confirmation|hyperpage}{2}
+\indexentry{data collection|hyperpage}{2}
+\indexentry{descriptive statistics|hyperpage}{2}
+\indexentry{exploratory data analysis|hyperpage}{2}
+\indexentry{estimation|hyperpage}{3}
+\indexentry{hypothesis testing|hyperpage}{3}
+\indexentry{National Survey of Family Growth|hyperpage}{3}
+\indexentry{NSFG|hyperpage}{3}
+\indexentry{cross-sectional study|hyperpage}{3}
+\indexentry{study!cross-sectional|hyperpage}{3}
+\indexentry{longitudinal study|hyperpage}{3}
+\indexentry{study!longitudinal|hyperpage}{3}
+\indexentry{cycle|hyperpage}{3}
+\indexentry{population|hyperpage}{4}
+\indexentry{respondent|hyperpage}{4}
+\indexentry{representative|hyperpage}{4}
+\indexentry{oversampling|hyperpage}{4}
+\indexentry{pandas|hyperpage}{5}
+\indexentry{DataFrame|hyperpage}{5}
+\indexentry{pandas|hyperpage}{6}
+\indexentry{Index|hyperpage}{6}
+\indexentry{DataFrame|hyperpage}{6}
+\indexentry{Series|hyperpage}{6}
+\indexentry{NumPy|hyperpage}{7}
+\indexentry{DataFrame|hyperpage}{7}
+\indexentry{pregnancy length|hyperpage}{8}
+\indexentry{birth weight|hyperpage}{8}
+\indexentry{weight!birth|hyperpage}{8}
+\indexentry{weight!sample|hyperpage}{8}
+\indexentry{recode|hyperpage}{8}
+\indexentry{raw data|hyperpage}{8}
+\indexentry{NaN|hyperpage}{9}
+\indexentry{pandas|hyperpage}{9}
+\indexentry{missing values|hyperpage}{9}
+\indexentry{DataFrame|hyperpage}{10}
+\indexentry{DataFrame|hyperpage}{10}
+\indexentry{Series|hyperpage}{10}
+\indexentry{loc indexer|hyperpage}{12}
+\indexentry{indexer!loc|hyperpage}{12}
+\indexentry{Series|hyperpage}{12}
+\indexentry{boolean|hyperpage}{12}
+\indexentry{NaN|hyperpage}{12}
+\indexentry{DataFrame|hyperpage}{12}
+\indexentry{NumPy|hyperpage}{13}
+\indexentry{Series|hyperpage}{13}
+\indexentry{ethics|hyperpage}{13}
+\indexentry{IPython|hyperpage}{13}
+\indexentry{DataFrame|hyperpage}{14}
+\indexentry{anecdotal evidence|hyperpage}{15}
+\indexentry{population|hyperpage}{15}
+\indexentry{cross-sectional study|hyperpage}{15}
+\indexentry{study!cross-sectional|hyperpage}{15}
+\indexentry{longitudinal study|hyperpage}{15}
+\indexentry{study!longitudinal|hyperpage}{15}
+\indexentry{record|hyperpage}{15}
+\indexentry{respondent|hyperpage}{16}
+\indexentry{sample|hyperpage}{16}
+\indexentry{representative|hyperpage}{16}
+\indexentry{oversampling|hyperpage}{16}
+\indexentry{raw data|hyperpage}{16}
+\indexentry{recode|hyperpage}{16}
+\indexentry{distribution|hyperpage}{17}
+\indexentry{histogram|hyperpage}{17}
+\indexentry{frequency|hyperpage}{17}
+\indexentry{dictionary|hyperpage}{17}
+\indexentry{pandas|hyperpage}{18}
+\indexentry{histogram|hyperpage}{18}
+\indexentry{Hist|hyperpage}{18}
+\indexentry{frequency|hyperpage}{18}
+\indexentry{bracket operator|hyperpage}{18}
+\indexentry{frequency|hyperpage}{18}
+\indexentry{pyplot|hyperpage}{19}
+\indexentry{thinkplot|hyperpage}{19}
+\indexentry{matplotlib|hyperpage}{19}
+\indexentry{Hist|hyperpage}{19}
+\indexentry{histogram|hyperpage}{20}
+\indexentry{DataFrame|hyperpage}{20}
+\indexentry{Series|hyperpage}{20}
+\indexentry{Hist|hyperpage}{20}
+\indexentry{bracket operator|hyperpage}{20}
+\indexentry{boolean|hyperpage}{20}
+\indexentry{pandas|hyperpage}{20}
+\indexentry{Series|hyperpage}{20}
+\indexentry{thinkplot|hyperpage}{20}
+\indexentry{NaN|hyperpage}{20}
+\indexentry{birth weight|hyperpage}{22}
+\indexentry{weight!birth|hyperpage}{22}
+\indexentry{pregnancy length|hyperpage}{22}
+\indexentry{histogram|hyperpage}{22}
+\indexentry{outlier|hyperpage}{22}
+\indexentry{Hist|hyperpage}{22}
+\indexentry{pregnancy length|hyperpage}{23}
+\indexentry{outlier|hyperpage}{23}
+\indexentry{DataFrame|hyperpage}{23}
+\indexentry{Hist|hyperpage}{23}
+\indexentry{pregnancy length|hyperpage}{23}
+\indexentry{thinkplot|hyperpage}{24}
+\indexentry{Hist|hyperpage}{24}
+\indexentry{pregnancy length|hyperpage}{24}
+\indexentry{length!pregnancy|hyperpage}{24}
+\indexentry{central tendency|hyperpage}{25}
+\indexentry{mode|hyperpage}{25}
+\indexentry{spread|hyperpage}{25}
+\indexentry{tail|hyperpage}{25}
+\indexentry{outlier|hyperpage}{25}
+\indexentry{mean|hyperpage}{25}
+\indexentry{average|hyperpage}{25}
+\indexentry{summary statistic|hyperpage}{25}
+\indexentry{central tendency|hyperpage}{25}
+\indexentry{weight!pumpkin|hyperpage}{26}
+\indexentry{pumpkin|hyperpage}{26}
+\indexentry{variance|hyperpage}{26}
+\indexentry{deviation|hyperpage}{26}
+\indexentry{standard deviation|hyperpage}{26}
+\indexentry{deviation|hyperpage}{26}
+\indexentry{sample variance|hyperpage}{26}
+\indexentry{pandas|hyperpage}{26}
+\indexentry{pregnancy length|hyperpage}{27}
+\indexentry{effect size|hyperpage}{27}
+\indexentry{effect size|hyperpage}{27}
+\indexentry{pregnancy length|hyperpage}{27}
+\indexentry{effect size|hyperpage}{27}
+\indexentry{standard deviation!pooled|hyperpage}{27}
+\indexentry{pregnancy length|hyperpage}{28}
+\indexentry{clinically significant|hyperpage}{28}
+\indexentry{significant|hyperpage}{28}
+\indexentry{ethics|hyperpage}{28}
+\indexentry{Adams, Cecil|hyperpage}{29}
+\indexentry{Straight Dope, The|hyperpage}{29}
+\indexentry{ethics|hyperpage}{29}
+\indexentry{mode|hyperpage}{29}
+\indexentry{Hist|hyperpage}{29}
+\indexentry{frequency|hyperpage}{29}
+\indexentry{pregnancy length|hyperpage}{29}
+\indexentry{distribution|hyperpage}{29}
+\indexentry{histogram|hyperpage}{29}
+\indexentry{frequency|hyperpage}{30}
+\indexentry{mode|hyperpage}{30}
+\indexentry{Gaussian distribution|hyperpage}{30}
+\indexentry{normal distribution|hyperpage}{30}
+\indexentry{uniform distribution|hyperpage}{30}
+\indexentry{tail|hyperpage}{30}
+\indexentry{central tendency|hyperpage}{30}
+\indexentry{outlier|hyperpage}{30}
+\indexentry{spread|hyperpage}{30}
+\indexentry{summary statistic|hyperpage}{30}
+\indexentry{variance|hyperpage}{30}
+\indexentry{standard deviation|hyperpage}{30}
+\indexentry{effect size|hyperpage}{30}
+\indexentry{clinically significant|hyperpage}{30}
+\indexentry{probability mass function|hyperpage}{31}
+\indexentry{Pmf|hyperpage}{31}
+\indexentry{frequency|hyperpage}{31}
+\indexentry{probability|hyperpage}{31}
+\indexentry{normalization|hyperpage}{31}
+\indexentry{PMF|hyperpage}{31}
+\indexentry{probability mass function|hyperpage}{31}
+\indexentry{Hist|hyperpage}{31}
+\indexentry{Hist|hyperpage}{32}
+\indexentry{bracket operator|hyperpage}{32}
+\indexentry{Pmf|hyperpage}{33}
+\indexentry{PMF|hyperpage}{33}
+\indexentry{thinkplot|hyperpage}{33}
+\indexentry{bar plot|hyperpage}{33}
+\indexentry{plot!bar|hyperpage}{33}
+\indexentry{line plot|hyperpage}{33}
+\indexentry{plot!line|hyperpage}{33}
+\indexentry{Hist|hyperpage}{33}
+\indexentry{Pmf|hyperpage}{33}
+\indexentry{pyplot|hyperpage}{33}
+\indexentry{pregnancy length|hyperpage}{33}
+\indexentry{length!pregnancy|hyperpage}{33}
+\indexentry{pregnancy length|hyperpage}{33}
+\indexentry{thinkplot|hyperpage}{34}
+\indexentry{Hist|hyperpage}{34}
+\indexentry{exploratory data analysis|hyperpage}{35}
+\indexentry{visualization|hyperpage}{35}
+\indexentry{National Survey of Family Growth|hyperpage}{35}
+\indexentry{NSFG|hyperpage}{35}
+\indexentry{thinkplot|hyperpage}{35}
+\indexentry{class size|hyperpage}{35}
+\indexentry{Pmf|hyperpage}{35}
+\indexentry{observer bias|hyperpage}{37}
+\indexentry{bias!observer|hyperpage}{37}
+\indexentry{thinkplot|hyperpage}{37}
+\indexentry{bias!oversampling|hyperpage}{38}
+\indexentry{oversampling|hyperpage}{38}
+\indexentry{NumPy|hyperpage}{39}
+\indexentry{pandas|hyperpage}{39}
+\indexentry{DataFrame|hyperpage}{39}
+\indexentry{Series|hyperpage}{40}
+\indexentry{DataFrame|hyperpage}{41}
+\indexentry{observer bias|hyperpage}{41}
+\indexentry{bias!observer|hyperpage}{41}
+\indexentry{mean|hyperpage}{41}
+\indexentry{variance|hyperpage}{41}
+\indexentry{PMF|hyperpage}{41}
+\indexentry{Pmf|hyperpage}{42}
+\indexentry{relay race|hyperpage}{42}
+\indexentry{bias!selection|hyperpage}{42}
+\indexentry{selection bias|hyperpage}{42}
+\indexentry{observer bias|hyperpage}{43}
+\indexentry{bias!observer|hyperpage}{43}
+\indexentry{PMF|hyperpage}{43}
+\indexentry{probability mass function|hyperpage}{43}
+\indexentry{frequency|hyperpage}{43}
+\indexentry{probability|hyperpage}{43}
+\indexentry{normalization|hyperpage}{43}
+\indexentry{pandas|hyperpage}{43}
+\indexentry{DataFrame|hyperpage}{43}
+\indexentry{PMF|hyperpage}{45}
+\indexentry{National Survey of Family Growth|hyperpage}{45}
+\indexentry{NSFG|hyperpage}{45}
+\indexentry{birth weight|hyperpage}{45}
+\indexentry{weight!birth|hyperpage}{45}
+\indexentry{binning|hyperpage}{45}
+\indexentry{CDF|hyperpage}{46}
+\indexentry{percentile rank|hyperpage}{46}
+\indexentry{percentile|hyperpage}{47}
+\indexentry{percentile rank|hyperpage}{47}
+\indexentry{CDF|hyperpage}{48}
+\indexentry{cumulative distribution function|hyperpage}{48}
+\indexentry{percentile rank|hyperpage}{48}
+\indexentry{sample|hyperpage}{48}
+\indexentry{step function|hyperpage}{49}
+\indexentry{Cdf|hyperpage}{49}
+\indexentry{bracket operator|hyperpage}{49}
+\indexentry{inverse CDF|hyperpage}{49}
+\indexentry{CDF, inverse|hyperpage}{49}
+\indexentry{NSFG|hyperpage}{49}
+\indexentry{pregnancy length|hyperpage}{49}
+\indexentry{thinkplot|hyperpage}{50}
+\indexentry{CDF, interpreting|hyperpage}{50}
+\indexentry{National Survey of Family Growth|hyperpage}{50}
+\indexentry{NSFG|hyperpage}{50}
+\indexentry{birth weight|hyperpage}{50}
+\indexentry{weight!birth|hyperpage}{50}
+\indexentry{thinkplot|hyperpage}{50}
+\indexentry{distributions, comparing|hyperpage}{50}
+\indexentry{shape|hyperpage}{51}
+\indexentry{summary statistic|hyperpage}{51}
+\indexentry{interquartile range|hyperpage}{51}
+\indexentry{quartile|hyperpage}{51}
+\indexentry{percentile|hyperpage}{51}
+\indexentry{median|hyperpage}{51}
+\indexentry{central tendency|hyperpage}{51}
+\indexentry{spread|hyperpage}{51}
+\indexentry{Cdf|hyperpage}{51}
+\indexentry{percentile rank|hyperpage}{51}
+\indexentry{quantile|hyperpage}{52}
+\indexentry{quintile|hyperpage}{52}
+\indexentry{decile|hyperpage}{52}
+\indexentry{random number|hyperpage}{52}
+\indexentry{percentile rank|hyperpage}{52}
+\indexentry{birth weight|hyperpage}{52}
+\indexentry{weight!birth|hyperpage}{52}
+\indexentry{Cdf|hyperpage}{52}
+\indexentry{replacement|hyperpage}{52}
+\indexentry{thinkplot|hyperpage}{52}
+\indexentry{inverse CDF algorithm|hyperpage}{53}
+\indexentry{random number|hyperpage}{53}
+\indexentry{Cdf|hyperpage}{53}
+\indexentry{percentile rank|hyperpage}{54}
+\indexentry{James Joyce Ramble|hyperpage}{54}
+\indexentry{race time|hyperpage}{54}
+\indexentry{field size|hyperpage}{54}
+\indexentry{age group|hyperpage}{54}
+\indexentry{birth weight|hyperpage}{55}
+\indexentry{weight!birth|hyperpage}{55}
+\indexentry{uniform distribution|hyperpage}{55}
+\indexentry{distribution!uniform|hyperpage}{55}
+\indexentry{random number|hyperpage}{55}
+\indexentry{percentile rank|hyperpage}{55}
+\indexentry{percentile|hyperpage}{55}
+\indexentry{CDF|hyperpage}{55}
+\indexentry{cumulative probability|hyperpage}{55}
+\indexentry{inverse CDF|hyperpage}{55}
+\indexentry{CDF, inverse|hyperpage}{55}
+\indexentry{median|hyperpage}{56}
+\indexentry{interquartile range|hyperpage}{56}
+\indexentry{quantile|hyperpage}{56}
+\indexentry{replacement|hyperpage}{56}
+\indexentry{analytic distribution|hyperpage}{57}
+\indexentry{distribution!analytic|hyperpage}{57}
+\indexentry{empirical distribution|hyperpage}{57}
+\indexentry{distribution!empirical|hyperpage}{57}
+\indexentry{model|hyperpage}{57}
+\indexentry{exponential distribution|hyperpage}{57}
+\indexentry{distribution!exponential|hyperpage}{57}
+\indexentry{parameter|hyperpage}{57}
+\indexentry{interarrival time|hyperpage}{58}
+\indexentry{birth time|hyperpage}{58}
+\indexentry{Australia|hyperpage}{58}
+\indexentry{Brisbane|hyperpage}{58}
+\indexentry{DataFrame|hyperpage}{58}
+\indexentry{thinkplot|hyperpage}{58}
+\indexentry{complementary CDF|hyperpage}{59}
+\indexentry{CDF!complementary|hyperpage}{59}
+\indexentry{CCDF|hyperpage}{59}
+\indexentry{logarithmic scale|hyperpage}{59}
+\indexentry{complementary CDF|hyperpage}{59}
+\indexentry{CDF!complementary|hyperpage}{59}
+\indexentry{CCDF|hyperpage}{59}
+\indexentry{thinkplot|hyperpage}{60}
+\indexentry{Cdf|hyperpage}{60}
+\indexentry{model|hyperpage}{60}
+\indexentry{CDF|hyperpage}{60}
+\indexentry{parameter|hyperpage}{60}
+\indexentry{mean|hyperpage}{60}
+\indexentry{standard deviation|hyperpage}{60}
+\indexentry{normal distribution|hyperpage}{60}
+\indexentry{distribution!normal|hyperpage}{60}
+\indexentry{Gaussian distribution|hyperpage}{60}
+\indexentry{distribution!Gaussian|hyperpage}{60}
+\indexentry{SciPy|hyperpage}{60}
+\indexentry{closed form|hyperpage}{60}
+\indexentry{normal distribution|hyperpage}{61}
+\indexentry{National Survey of Family Growth|hyperpage}{61}
+\indexentry{NSFG|hyperpage}{61}
+\indexentry{birth weight|hyperpage}{61}
+\indexentry{weight!birth|hyperpage}{61}
+\indexentry{model|hyperpage}{61}
+\indexentry{percentile|hyperpage}{61}
+\indexentry{exponential distribution|hyperpage}{62}
+\indexentry{distribution!exponential|hyperpage}{62}
+\indexentry{model|hyperpage}{62}
+\indexentry{normal probability plot|hyperpage}{62}
+\indexentry{plot!normal probability|hyperpage}{62}
+\indexentry{normal distribution|hyperpage}{62}
+\indexentry{distribution!normal|hyperpage}{62}
+\indexentry{Gaussian distribution|hyperpage}{62}
+\indexentry{distribution!Gaussian|hyperpage}{62}
+\indexentry{random number|hyperpage}{62}
+\indexentry{NumPy|hyperpage}{63}
+\indexentry{birth weight|hyperpage}{63}
+\indexentry{weight!birth|hyperpage}{63}
+\indexentry{pandas|hyperpage}{64}
+\indexentry{Series|hyperpage}{64}
+\indexentry{thinkplot|hyperpage}{64}
+\indexentry{standard deviation|hyperpage}{64}
+\indexentry{model|hyperpage}{64}
+\indexentry{pregnancy length|hyperpage}{64}
+\indexentry{model|hyperpage}{65}
+\indexentry{birth weight|hyperpage}{65}
+\indexentry{weight!birth|hyperpage}{65}
+\indexentry{standard deviation|hyperpage}{65}
+\indexentry{parameter|hyperpage}{65}
+\indexentry{weight!adult|hyperpage}{65}
+\indexentry{adult weight|hyperpage}{65}
+\indexentry{lognormal distribution|hyperpage}{65}
+\indexentry{distribution!lognormal|hyperpage}{65}
+\indexentry{CDF|hyperpage}{65}
+\indexentry{normal probability plot|hyperpage}{65}
+\indexentry{model|hyperpage}{65}
+\indexentry{Behavioral Risk Factor Surveillance System|hyperpage}{66}
+\indexentry{BRFSS|hyperpage}{66}
+\indexentry{respondent|hyperpage}{67}
+\indexentry{model|hyperpage}{67}
+\indexentry{normal distribution|hyperpage}{67}
+\indexentry{distribution!normal|hyperpage}{67}
+\indexentry{Gaussian distribution|hyperpage}{67}
+\indexentry{distribution!Gaussian|hyperpage}{67}
+\indexentry{lognormal distribution|hyperpage}{67}
+\indexentry{distribution!lognormal|hyperpage}{67}
+\indexentry{standard deviation|hyperpage}{67}
+\indexentry{adult weight|hyperpage}{67}
+\indexentry{weight!adult|hyperpage}{67}
+\indexentry{model|hyperpage}{67}
+\indexentry{normal probability plot|hyperpage}{67}
+\indexentry{Pareto distribution|hyperpage}{67}
+\indexentry{distribution!Pareto|hyperpage}{67}
+\indexentry{Pareto, Vilfredo|hyperpage}{67}
+\indexentry{CDF|hyperpage}{67}
+\indexentry{parameter|hyperpage}{67}
+\indexentry{Pareto distribution|hyperpage}{68}
+\indexentry{distribution!Pareto|hyperpage}{68}
+\indexentry{U.S.~Census Bureau|hyperpage}{68}
+\indexentry{population|hyperpage}{68}
+\indexentry{city size|hyperpage}{68}
+\indexentry{model|hyperpage}{68}
+\indexentry{normal probability plot|hyperpage}{68}
+\indexentry{exponential distribution|hyperpage}{69}
+\indexentry{distribution!exponential|hyperpage}{69}
+\indexentry{random number|hyperpage}{69}
+\indexentry{CDF|hyperpage}{69}
+\indexentry{inverse CDF algorithm|hyperpage}{69}
+\indexentry{uniform distribution|hyperpage}{69}
+\indexentry{distribution!uniform|hyperpage}{69}
+\indexentry{inverse CDF|hyperpage}{69}
+\indexentry{CDF, inverse|hyperpage}{69}
+\indexentry{random module|hyperpage}{70}
+\indexentry{model|hyperpage}{70}
+\indexentry{abstraction|hyperpage}{70}
+\indexentry{smoothing|hyperpage}{70}
+\indexentry{parameter|hyperpage}{71}
+\indexentry{compression|hyperpage}{71}
+\indexentry{preferential attachment|hyperpage}{71}
+\indexentry{generative process|hyperpage}{71}
+\indexentry{Pareto distribution|hyperpage}{71}
+\indexentry{distribution!Pareto|hyperpage}{71}
+\indexentry{analysis|hyperpage}{71}
+\indexentry{normal distribution|hyperpage}{71}
+\indexentry{distribution!normal|hyperpage}{71}
+\indexentry{Gaussian distribution|hyperpage}{71}
+\indexentry{distribution!Gaussian|hyperpage}{71}
+\indexentry{height|hyperpage}{71}
+\indexentry{Blue Man Group|hyperpage}{71}
+\indexentry{Group, Blue Man|hyperpage}{71}
+\indexentry{SciPy|hyperpage}{71}
+\indexentry{height|hyperpage}{72}
+\indexentry{Pareto distribution|hyperpage}{72}
+\indexentry{distribution!Pareto|hyperpage}{72}
+\indexentry{Pareto World|hyperpage}{72}
+\indexentry{Weibull distribution|hyperpage}{72}
+\indexentry{distribution!Weibull|hyperpage}{72}
+\indexentry{exponential distribution|hyperpage}{72}
+\indexentry{distribution!exponential|hyperpage}{72}
+\indexentry{random module|hyperpage}{72}
+\indexentry{empirical distribution|hyperpage}{72}
+\indexentry{distribution!empirical|hyperpage}{72}
+\indexentry{random module|hyperpage}{72}
+\indexentry{random number|hyperpage}{72}
+\indexentry{Pareto distribution|hyperpage}{73}
+\indexentry{distribution!Pareto|hyperpage}{73}
+\indexentry{lognormal distribution|hyperpage}{73}
+\indexentry{distribution!lognormal|hyperpage}{73}
+\indexentry{model|hyperpage}{73}
+\indexentry{empirical distribution|hyperpage}{73}
+\indexentry{distribution!empirical|hyperpage}{73}
+\indexentry{analytic distribution|hyperpage}{73}
+\indexentry{distribution!analytic|hyperpage}{73}
+\indexentry{model|hyperpage}{73}
+\indexentry{interarrival time|hyperpage}{73}
+\indexentry{complementary CDF|hyperpage}{73}
+\indexentry{CDF!complementary|hyperpage}{73}
+\indexentry{CCDF|hyperpage}{73}
+\indexentry{standard normal distribution|hyperpage}{73}
+\indexentry{normal probability plot|hyperpage}{73}
+\indexentry{plot!normal probability|hyperpage}{73}
+\indexentry{PDF|hyperpage}{75}
+\indexentry{probability density function|hyperpage}{75}
+\indexentry{exponential distribution|hyperpage}{75}
+\indexentry{distribution!exponential|hyperpage}{75}
+\indexentry{normal distribution|hyperpage}{75}
+\indexentry{distribution!normal|hyperpage}{75}
+\indexentry{Gaussian distribution|hyperpage}{75}
+\indexentry{distribution!Gaussian|hyperpage}{75}
+\indexentry{CDF|hyperpage}{75}
+\indexentry{derivative|hyperpage}{75}
+\indexentry{density|hyperpage}{75}
+\indexentry{mass|hyperpage}{75}
+\indexentry{Pmf|hyperpage}{76}
+\indexentry{SciPy|hyperpage}{76}
+\indexentry{standard deviation|hyperpage}{77}
+\indexentry{thinkplot|hyperpage}{77}
+\indexentry{KDE|hyperpage}{77}
+\indexentry{kernel density estimation|hyperpage}{77}
+\indexentry{SciPy|hyperpage}{77}
+\indexentry{NumPy|hyperpage}{77}
+\indexentry{density|hyperpage}{78}
+\indexentry{NumPy|hyperpage}{78}
+\indexentry{EstimatedPdf|hyperpage}{78}
+\indexentry{thinkplot|hyperpage}{78}
+\indexentry{Pmf|hyperpage}{78}
+\indexentry{visualization|hyperpage}{79}
+\indexentry{model|hyperpage}{79}
+\indexentry{interpolation|hyperpage}{79}
+\indexentry{simulation|hyperpage}{79}
+\indexentry{distribution framework|hyperpage}{79}
+\indexentry{Pmf|hyperpage}{79}
+\indexentry{Cdf|hyperpage}{79}
+\indexentry{Pdf|hyperpage}{79}
+\indexentry{cumulative probability|hyperpage}{79}
+\indexentry{discrete distribution|hyperpage}{79}
+\indexentry{continuous distribution|hyperpage}{79}
+\indexentry{smoothing|hyperpage}{79}
+\indexentry{exponential distribution|hyperpage}{80}
+\indexentry{distribution!exponential|hyperpage}{80}
+\indexentry{normal distribution|hyperpage}{80}
+\indexentry{distribution!normal|hyperpage}{80}
+\indexentry{Gaussian distribution|hyperpage}{80}
+\indexentry{distribution!Gaussian|hyperpage}{80}
+\indexentry{discretize|hyperpage}{80}
+\indexentry{quantize|hyperpage}{80}
+\indexentry{binning|hyperpage}{80}
+\indexentry{CDF|hyperpage}{80}
+\indexentry{Hist|hyperpage}{80}
+\indexentry{DictWrapper|hyperpage}{81}
+\indexentry{internal class|hyperpage}{81}
+\indexentry{wrapper|hyperpage}{81}
+\indexentry{hashable|hyperpage}{81}
+\indexentry{dictionary|hyperpage}{81}
+\indexentry{frequency|hyperpage}{81}
+\indexentry{Hist|hyperpage}{81}
+\indexentry{Pmf|hyperpage}{81}
+\indexentry{Hist|hyperpage}{82}
+\indexentry{Cdf|hyperpage}{82}
+\indexentry{binary search|hyperpage}{82}
+\indexentry{cumulative probability|hyperpage}{82}
+\indexentry{DictWrapper|hyperpage}{82}
+\indexentry{inverse CDF|hyperpage}{82}
+\indexentry{CDF, inverse|hyperpage}{82}
+\indexentry{frequency|hyperpage}{83}
+\indexentry{Pmf|hyperpage}{83}
+\indexentry{Cdf|hyperpage}{83}
+\indexentry{NumPy|hyperpage}{84}
+\indexentry{moment|hyperpage}{84}
+\indexentry{moment   of inertia|hyperpage}{85}
+\indexentry{standard deviation|hyperpage}{85}
+\indexentry{skewness|hyperpage}{85}
+\indexentry{central tendency|hyperpage}{85}
+\indexentry{bias|hyperpage}{85}
+\indexentry{sample skewness|hyperpage}{85}
+\indexentry{standardized moment|hyperpage}{85}
+\indexentry{outlier|hyperpage}{86}
+\indexentry{symmetric|hyperpage}{86}
+\indexentry{Pearson median skewness|hyperpage}{86}
+\indexentry{standard deviation|hyperpage}{86}
+\indexentry{robust|hyperpage}{86}
+\indexentry{outlier|hyperpage}{86}
+\indexentry{thinkplot|hyperpage}{86}
+\indexentry{skewness|hyperpage}{87}
+\indexentry{dropna|hyperpage}{87}
+\indexentry{NaN|hyperpage}{87}
+\indexentry{thinkplot|hyperpage}{87}
+\indexentry{dropna|hyperpage}{87}
+\indexentry{NaN|hyperpage}{87}
+\indexentry{outlier|hyperpage}{87}
+\indexentry{robust|hyperpage}{87}
+\indexentry{Pearson median skewness|hyperpage}{88}
+\indexentry{skewness|hyperpage}{88}
+\indexentry{income|hyperpage}{88}
+\indexentry{Current Population Survey|hyperpage}{88}
+\indexentry{Bureau of Labor Statistics|hyperpage}{88}
+\indexentry{Census Bureau|hyperpage}{88}
+\indexentry{DataFrame|hyperpage}{89}
+\indexentry{model|hyperpage}{89}
+\indexentry{PDF|hyperpage}{89}
+\indexentry{probability density function|hyperpage}{89}
+\indexentry{probability density|hyperpage}{89}
+\indexentry{kernel density estimation|hyperpage}{89}
+\indexentry{KDE|hyperpage}{89}
+\indexentry{discretize|hyperpage}{89}
+\indexentry{raw moment|hyperpage}{89}
+\indexentry{central moment|hyperpage}{89}
+\indexentry{standardized moment|hyperpage}{90}
+\indexentry{skewness|hyperpage}{90}
+\indexentry{sample skewness|hyperpage}{90}
+\indexentry{Pearson median skewness|hyperpage}{90}
+\indexentry{robust|hyperpage}{90}
+\indexentry{adult weight|hyperpage}{91}
+\indexentry{adult height|hyperpage}{91}
+\indexentry{scatter plot|hyperpage}{91}
+\indexentry{plot!scatter|hyperpage}{91}
+\indexentry{BRFSS|hyperpage}{91}
+\indexentry{SampleRows|hyperpage}{92}
+\indexentry{DataFrame|hyperpage}{92}
+\indexentry{thinkplot|hyperpage}{92}
+\indexentry{boolean|hyperpage}{92}
+\indexentry{replacement|hyperpage}{92}
+\indexentry{height|hyperpage}{93}
+\indexentry{weight|hyperpage}{93}
+\indexentry{jitter|hyperpage}{93}
+\indexentry{uniform distribution|hyperpage}{93}
+\indexentry{distribution!uniform|hyperpage}{93}
+\indexentry{noise|hyperpage}{93}
+\indexentry{NumPy|hyperpage}{93}
+\indexentry{outlier|hyperpage}{93}
+\indexentry{saturation|hyperpage}{93}
+\indexentry{thinkplot|hyperpage}{93}
+\indexentry{alpha|hyperpage}{93}
+\indexentry{transparency|hyperpage}{93}
+\indexentry{hexbin plot|hyperpage}{94}
+\indexentry{plot!hexbin|hyperpage}{94}
+\indexentry{thinkplot|hyperpage}{94}
+\indexentry{outlier|hyperpage}{94}
+\indexentry{artifact|hyperpage}{94}
+\indexentry{binning|hyperpage}{95}
+\indexentry{NumPy|hyperpage}{95}
+\indexentry{pandas|hyperpage}{95}
+\indexentry{dropna|hyperpage}{95}
+\indexentry{digitize|hyperpage}{95}
+\indexentry{NaN|hyperpage}{95}
+\indexentry{DataFrame|hyperpage}{96}
+\indexentry{groupby|hyperpage}{96}
+\indexentry{Cdf|hyperpage}{96}
+\indexentry{percentile|hyperpage}{96}
+\indexentry{thinkplot|hyperpage}{96}
+\indexentry{correlation|hyperpage}{96}
+\indexentry{units|hyperpage}{96}
+\indexentry{standard score|hyperpage}{96}
+\indexentry{standard deviation|hyperpage}{96}
+\indexentry{Pearson coefficient of correlation|hyperpage}{96}
+\indexentry{rank|hyperpage}{96}
+\indexentry{percentile rank|hyperpage}{96}
+\indexentry{Spearman coefficient of correlation|hyperpage}{96}
+\indexentry{mean|hyperpage}{97}
+\indexentry{standard deviation|hyperpage}{97}
+\indexentry{standardize|hyperpage}{97}
+\indexentry{deviation|hyperpage}{97}
+\indexentry{normal distribution|hyperpage}{97}
+\indexentry{distribution!normal|hyperpage}{97}
+\indexentry{Gaussian distribution|hyperpage}{97}
+\indexentry{distribution!Gaussian|hyperpage}{97}
+\indexentry{uniform distribution|hyperpage}{97}
+\indexentry{distribution!uniform|hyperpage}{97}
+\indexentry{robust|hyperpage}{97}
+\indexentry{skewness|hyperpage}{97}
+\indexentry{outlier|hyperpage}{97}
+\indexentry{covariance|hyperpage}{97}
+\indexentry{deviation|hyperpage}{97}
+\indexentry{linear algebra|hyperpage}{98}
+\indexentry{dot product|hyperpage}{98}
+\indexentry{orthogonal vector|hyperpage}{98}
+\indexentry{NumPy|hyperpage}{98}
+\indexentry{pandas|hyperpage}{98}
+\indexentry{correlation|hyperpage}{98}
+\indexentry{standard score|hyperpage}{98}
+\indexentry{deviation|hyperpage}{98}
+\indexentry{units|hyperpage}{98}
+\indexentry{standard deviation|hyperpage}{99}
+\indexentry{Pearson, Karl|hyperpage}{99}
+\indexentry{Pearson coefficient of correlation|hyperpage}{99}
+\indexentry{MeanVar|hyperpage}{99}
+\indexentry{prediction|hyperpage}{99}
+\indexentry{linear relationship|hyperpage}{100}
+\indexentry{nonlinear|hyperpage}{100}
+\indexentry{Pearson coefficient of correlation|hyperpage}{100}
+\indexentry{scatter plot|hyperpage}{100}
+\indexentry{plot!scatter|hyperpage}{100}
+\indexentry{nonlinear|hyperpage}{100}
+\indexentry{correlation|hyperpage}{100}
+\indexentry{Pearson coefficient of correlation|hyperpage}{101}
+\indexentry{Spearman coefficient of correlation|hyperpage}{101}
+\indexentry{normal distribution|hyperpage}{101}
+\indexentry{distribution!normal|hyperpage}{101}
+\indexentry{Gaussian distribution|hyperpage}{101}
+\indexentry{distribution!Gaussian|hyperpage}{101}
+\indexentry{robust|hyperpage}{101}
+\indexentry{skewness|hyperpage}{101}
+\indexentry{outlier|hyperpage}{101}
+\indexentry{rank|hyperpage}{101}
+\indexentry{pandas|hyperpage}{101}
+\indexentry{Series|hyperpage}{101}
+\indexentry{rank correlation|hyperpage}{101}
+\indexentry{BRFSS|hyperpage}{101}
+\indexentry{nonlinear|hyperpage}{101}
+\indexentry{skewness|hyperpage}{101}
+\indexentry{outlier|hyperpage}{101}
+\indexentry{robust|hyperpage}{101}
+\indexentry{lognormal distribution|hyperpage}{102}
+\indexentry{distribution!lognormal|hyperpage}{102}
+\indexentry{skewness|hyperpage}{102}
+\indexentry{Spearman coefficient of correlation|hyperpage}{102}
+\indexentry{Pearson coefficient of correlation|hyperpage}{102}
+\indexentry{correlation|hyperpage}{102}
+\indexentry{causation|hyperpage}{102}
+\indexentry{causal relationship|hyperpage}{102}
+\indexentry{spurious relationship|hyperpage}{102}
+\indexentry{randomized controlled trial|hyperpage}{103}
+\indexentry{controlled trial|hyperpage}{103}
+\indexentry{treatment group|hyperpage}{103}
+\indexentry{control group|hyperpage}{103}
+\indexentry{medicine|hyperpage}{103}
+\indexentry{ethics|hyperpage}{103}
+\indexentry{natural experiment|hyperpage}{103}
+\indexentry{regression analysis|hyperpage}{103}
+\indexentry{birth weight|hyperpage}{103}
+\indexentry{weight!birth|hyperpage}{103}
+\indexentry{Pearson coefficient of correlation|hyperpage}{103}
+\indexentry{Spearman coefficient of correlation|hyperpage}{103}
+\indexentry{scatter plot|hyperpage}{103}
+\indexentry{jitter|hyperpage}{103}
+\indexentry{saturation|hyperpage}{104}
+\indexentry{correlation|hyperpage}{104}
+\indexentry{standardize|hyperpage}{104}
+\indexentry{standard score|hyperpage}{104}
+\indexentry{standard deviation|hyperpage}{104}
+\indexentry{covariance|hyperpage}{104}
+\indexentry{rank|hyperpage}{104}
+\indexentry{randomized controlled trial|hyperpage}{104}
+\indexentry{treatment group|hyperpage}{104}
+\indexentry{control group|hyperpage}{104}
+\indexentry{natural experiment|hyperpage}{104}
+\indexentry{estimation|hyperpage}{105}
+\indexentry{normal distribution|hyperpage}{105}
+\indexentry{distribution!normal|hyperpage}{105}
+\indexentry{Gaussian distribution|hyperpage}{105}
+\indexentry{distribution!Gaussian|hyperpage}{105}
+\indexentry{mean|hyperpage}{105}
+\indexentry{parameter|hyperpage}{105}
+\indexentry{estimator|hyperpage}{105}
+\indexentry{normal distribution|hyperpage}{105}
+\indexentry{distribution!normal|hyperpage}{105}
+\indexentry{Gaussian distribution|hyperpage}{105}
+\indexentry{distribution!Gaussian|hyperpage}{105}
+\indexentry{measurement error|hyperpage}{105}
+\indexentry{outlier|hyperpage}{106}
+\indexentry{median|hyperpage}{106}
+\indexentry{error|hyperpage}{106}
+\indexentry{MSE|hyperpage}{106}
+\indexentry{mean squared error|hyperpage}{106}
+\indexentry{mean squared error|hyperpage}{106}
+\indexentry{MSE|hyperpage}{106}
+\indexentry{RMSE|hyperpage}{106}
+\indexentry{median|hyperpage}{107}
+\indexentry{estimator|hyperpage}{107}
+\indexentry{prediction|hyperpage}{107}
+\indexentry{cost function|hyperpage}{107}
+\indexentry{MSE|hyperpage}{107}
+\indexentry{MLE|hyperpage}{107}
+\indexentry{maximum likelihood estimator|hyperpage}{107}
+\indexentry{dice|hyperpage}{107}
+\indexentry{variance|hyperpage}{107}
+\indexentry{normal distribution|hyperpage}{107}
+\indexentry{distribution!normal|hyperpage}{107}
+\indexentry{Gaussian distribution|hyperpage}{107}
+\indexentry{distribution!Gaussian|hyperpage}{107}
+\indexentry{sample variance|hyperpage}{108}
+\indexentry{biased estimator|hyperpage}{108}
+\indexentry{estimator!biased|hyperpage}{108}
+\indexentry{unbiased estimator|hyperpage}{108}
+\indexentry{estimator!unbiased|hyperpage}{108}
+\indexentry{degrees of freedom|hyperpage}{109}
+\indexentry{mean error|hyperpage}{109}
+\indexentry{biased estimator|hyperpage}{109}
+\indexentry{estimator!biased|hyperpage}{109}
+\indexentry{gorilla|hyperpage}{110}
+\indexentry{population|hyperpage}{110}
+\indexentry{sample|hyperpage}{110}
+\indexentry{MSE|hyperpage}{110}
+\indexentry{sample mean|hyperpage}{110}
+\indexentry{biased estimator|hyperpage}{110}
+\indexentry{estimator!biased|hyperpage}{110}
+\indexentry{standard deviation|hyperpage}{110}
+\indexentry{sampling error|hyperpage}{110}
+\indexentry{gorilla|hyperpage}{110}
+\indexentry{sample size|hyperpage}{110}
+\indexentry{simulation|hyperpage}{110}
+\indexentry{sampling distribution|hyperpage}{111}
+\indexentry{standard error|hyperpage}{111}
+\indexentry{confidence interval|hyperpage}{111}
+\indexentry{sampling distribution|hyperpage}{111}
+\indexentry{gorilla|hyperpage}{112}
+\indexentry{standard deviation|hyperpage}{112}
+\indexentry{Bayesian statistics|hyperpage}{112}
+\indexentry{sampling distribution|hyperpage}{112}
+\indexentry{gorilla|hyperpage}{112}
+\indexentry{adult weight|hyperpage}{112}
+\indexentry{sampling bias|hyperpage}{112}
+\indexentry{bias!sampling|hyperpage}{112}
+\indexentry{measurement error|hyperpage}{112}
+\indexentry{telephone sampling|hyperpage}{112}
+\indexentry{random number|hyperpage}{112}
+\indexentry{sampling bias|hyperpage}{113}
+\indexentry{self-selection|hyperpage}{113}
+\indexentry{measurement error|hyperpage}{113}
+\indexentry{standard error|hyperpage}{113}
+\indexentry{confidence interval|hyperpage}{113}
+\indexentry{exponential distribution|hyperpage}{113}
+\indexentry{distribution!exponential|hyperpage}{113}
+\indexentry{parameter|hyperpage}{113}
+\indexentry{mean|hyperpage}{113}
+\indexentry{MLE|hyperpage}{114}
+\indexentry{maximum likelihood estimator|hyperpage}{114}
+\indexentry{robust|hyperpage}{114}
+\indexentry{outlier|hyperpage}{114}
+\indexentry{sample median|hyperpage}{114}
+\indexentry{median|hyperpage}{114}
+\indexentry{MSE|hyperpage}{114}
+\indexentry{RMSE|hyperpage}{114}
+\indexentry{biased estimator|hyperpage}{114}
+\indexentry{estimator!biased|hyperpage}{114}
+\indexentry{sample mean|hyperpage}{115}
+\indexentry{sample median|hyperpage}{115}
+\indexentry{estimator!biased|hyperpage}{115}
+\indexentry{standard error|hyperpage}{115}
+\indexentry{confidence interval|hyperpage}{115}
+\indexentry{sampling distribution|hyperpage}{115}
+\indexentry{exponential distribution|hyperpage}{115}
+\indexentry{distribution!exponential|hyperpage}{115}
+\indexentry{hockey|hyperpage}{115}
+\indexentry{soccer|hyperpage}{115}
+\indexentry{estimator!biased|hyperpage}{115}
+\indexentry{biased estimator|hyperpage}{115}
+\indexentry{standard error|hyperpage}{115}
+\indexentry{confidence interval|hyperpage}{115}
+\indexentry{estimation|hyperpage}{116}
+\indexentry{estimation|hyperpage}{116}
+\indexentry{mean squared error|hyperpage}{116}
+\indexentry{MSE|hyperpage}{116}
+\indexentry{mean squared error|hyperpage}{116}
+\indexentry{MSE|hyperpage}{116}
+\indexentry{MLE|hyperpage}{116}
+\indexentry{maximum likelihood estimator|hyperpage}{116}
+\indexentry{biased estimator|hyperpage}{116}
+\indexentry{point estimation|hyperpage}{116}
+\indexentry{sampling bias|hyperpage}{116}
+\indexentry{measurement error|hyperpage}{116}
+\indexentry{sampling distribution|hyperpage}{116}
+\indexentry{standard error|hyperpage}{116}
+\indexentry{confidence interval|hyperpage}{116}
+\indexentry{interval!confidence|hyperpage}{116}
+\indexentry{hypothesis testing|hyperpage}{117}
+\indexentry{apparent effect|hyperpage}{117}
+\indexentry{National Survey of Family Growth|hyperpage}{117}
+\indexentry{NSFG|hyperpage}{117}
+\indexentry{pregnancy length|hyperpage}{117}
+\indexentry{length!pregnancy|hyperpage}{117}
+\indexentry{Bayesian inference|hyperpage}{117}
+\indexentry{null hypothesis|hyperpage}{117}
+\indexentry{test statistic|hyperpage}{118}
+\indexentry{null hypothesis|hyperpage}{118}
+\indexentry{pregnancy length|hyperpage}{118}
+\indexentry{model|hyperpage}{118}
+\indexentry{p-value|hyperpage}{118}
+\indexentry{statistically significant|hyperpage}{118}
+\indexentry{significant|hyperpage}{118}
+\indexentry{contradiction, proof by|hyperpage}{118}
+\indexentry{proof by contradiction|hyperpage}{118}
+\indexentry{p-value|hyperpage}{118}
+\indexentry{null hypothesis|hyperpage}{118}
+\indexentry{mean!difference in|hyperpage}{119}
+\indexentry{HypothesisTest|hyperpage}{119}
+\indexentry{HypothesisTest|hyperpage}{119}
+\indexentry{test statistic|hyperpage}{119}
+\indexentry{null hypothesis|hyperpage}{119}
+\indexentry{simulation|hyperpage}{120}
+\indexentry{biased coin|hyperpage}{120}
+\indexentry{MacKay, David|hyperpage}{120}
+\indexentry{HypothesisTest|hyperpage}{120}
+\indexentry{Hist|hyperpage}{120}
+\indexentry{model|hyperpage}{120}
+\indexentry{p-value|hyperpage}{121}
+\indexentry{statistically significant|hyperpage}{121}
+\indexentry{significant|hyperpage}{121}
+\indexentry{null hypothesis|hyperpage}{121}
+\indexentry{mean!difference in|hyperpage}{121}
+\indexentry{National Survey of Family Growth|hyperpage}{121}
+\indexentry{NSFG|hyperpage}{121}
+\indexentry{pregnancy length|hyperpage}{121}
+\indexentry{length!pregnancy|hyperpage}{121}
+\indexentry{null hypothesis|hyperpage}{121}
+\indexentry{permutation|hyperpage}{121}
+\indexentry{model|hyperpage}{121}
+\indexentry{HypothesisTest|hyperpage}{122}
+\indexentry{NumPy|hyperpage}{122}
+\indexentry{null hypothesis|hyperpage}{122}
+\indexentry{model|hyperpage}{122}
+\indexentry{DataFrame|hyperpage}{122}
+\indexentry{p-value|hyperpage}{122}
+\indexentry{significant|hyperpage}{122}
+\indexentry{statistically significant|hyperpage}{122}
+\indexentry{pregnancy length|hyperpage}{122}
+\indexentry{thinkplot|hyperpage}{122}
+\indexentry{HypothesisTest|hyperpage}{122}
+\indexentry{Cdf|hyperpage}{122}
+\indexentry{effect size|hyperpage}{122}
+\indexentry{p-value|hyperpage}{122}
+\indexentry{birth weight|hyperpage}{122}
+\indexentry{weight!birth|hyperpage}{122}
+\indexentry{significant|hyperpage}{122}
+\indexentry{statistically significant|hyperpage}{122}
+\indexentry{test statistic|hyperpage}{123}
+\indexentry{pregnancy length|hyperpage}{123}
+\indexentry{one-sided test|hyperpage}{123}
+\indexentry{two-sided test|hyperpage}{123}
+\indexentry{p-value|hyperpage}{124}
+\indexentry{significant|hyperpage}{124}
+\indexentry{statistically significant|hyperpage}{124}
+\indexentry{standard deviation|hyperpage}{124}
+\indexentry{p-value|hyperpage}{124}
+\indexentry{permutation|hyperpage}{124}
+\indexentry{significant|hyperpage}{124}
+\indexentry{statistically significant|hyperpage}{124}
+\indexentry{correlation|hyperpage}{124}
+\indexentry{test statistic|hyperpage}{124}
+\indexentry{Pearson coefficient of correlation|hyperpage}{124}
+\indexentry{Spearman coefficient of correlation|hyperpage}{124}
+\indexentry{birth weight|hyperpage}{124}
+\indexentry{weight!birth|hyperpage}{124}
+\indexentry{null hypothesis|hyperpage}{124}
+\indexentry{HypothesisTest|hyperpage}{125}
+\indexentry{permutation|hyperpage}{125}
+\indexentry{Pearson coefficient of correlation|hyperpage}{125}
+\indexentry{dropna|hyperpage}{125}
+\indexentry{NaN|hyperpage}{125}
+\indexentry{missing values|hyperpage}{125}
+\indexentry{p-value|hyperpage}{125}
+\indexentry{significant|hyperpage}{125}
+\indexentry{statistically significant|hyperpage}{125}
+\indexentry{chi-squared test|hyperpage}{125}
+\indexentry{casino|hyperpage}{126}
+\indexentry{dice|hyperpage}{126}
+\indexentry{crooked die|hyperpage}{126}
+\indexentry{frequency|hyperpage}{126}
+\indexentry{significant|hyperpage}{126}
+\indexentry{statistically significant|hyperpage}{126}
+\indexentry{deviation|hyperpage}{126}
+\indexentry{HypothesisTest|hyperpage}{126}
+\indexentry{frequency|hyperpage}{126}
+\indexentry{Hist|hyperpage}{127}
+\indexentry{null hypothesis|hyperpage}{127}
+\indexentry{model|hyperpage}{127}
+\indexentry{p-value|hyperpage}{127}
+\indexentry{deviation|hyperpage}{127}
+\indexentry{significant|hyperpage}{127}
+\indexentry{statistically significant|hyperpage}{127}
+\indexentry{chi-squared test|hyperpage}{127}
+\indexentry{chi-squared statistic|hyperpage}{127}
+\indexentry{test statistic|hyperpage}{127}
+\indexentry{deviation|hyperpage}{127}
+\indexentry{p-value|hyperpage}{127}
+\indexentry{significant|hyperpage}{127}
+\indexentry{statistically significant|hyperpage}{127}
+\indexentry{null hypothesis|hyperpage}{128}
+\indexentry{model|hyperpage}{128}
+\indexentry{standard deviation|hyperpage}{128}
+\indexentry{statistically significant|hyperpage}{128}
+\indexentry{significant|hyperpage}{128}
+\indexentry{pregnancy length|hyperpage}{128}
+\indexentry{HypothesisTest|hyperpage}{128}
+\indexentry{null hypothesis|hyperpage}{128}
+\indexentry{model|hyperpage}{128}
+\indexentry{hstack|hyperpage}{128}
+\indexentry{pregnancy length|hyperpage}{128}
+\indexentry{chi-squared statistic|hyperpage}{129}
+\indexentry{null hypothesis|hyperpage}{129}
+\indexentry{statistically significant|hyperpage}{129}
+\indexentry{significant|hyperpage}{129}
+\indexentry{error|hyperpage}{130}
+\indexentry{p-value|hyperpage}{130}
+\indexentry{threshold|hyperpage}{130}
+\indexentry{statistically significant|hyperpage}{130}
+\indexentry{significant|hyperpage}{130}
+\indexentry{false positive|hyperpage}{130}
+\indexentry{false negative|hyperpage}{130}
+\indexentry{null hypothesis|hyperpage}{130}
+\indexentry{CDF|hyperpage}{130}
+\indexentry{effect size|hyperpage}{130}
+\indexentry{model|hyperpage}{130}
+\indexentry{Resample|hyperpage}{131}
+\indexentry{permutation|hyperpage}{131}
+\indexentry{replacement|hyperpage}{131}
+\indexentry{pregnancy length|hyperpage}{131}
+\indexentry{power|hyperpage}{131}
+\indexentry{sensitivity|hyperpage}{131}
+\indexentry{correct positive|hyperpage}{131}
+\indexentry{underpowered|hyperpage}{132}
+\indexentry{multiple tests|hyperpage}{132}
+\indexentry{statistically significant|hyperpage}{132}
+\indexentry{significant|hyperpage}{132}
+\indexentry{p-value|hyperpage}{132}
+\indexentry{Holm-Bonferroni method|hyperpage}{132}
+\indexentry{confirmatory result|hyperpage}{132}
+\indexentry{NSFG|hyperpage}{132}
+\indexentry{statistically significant|hyperpage}{133}
+\indexentry{significant|hyperpage}{133}
+\indexentry{pregnancy length|hyperpage}{133}
+\indexentry{birth weight|hyperpage}{133}
+\indexentry{weight!birth|hyperpage}{133}
+\indexentry{sample size|hyperpage}{133}
+\indexentry{National Survey of Family Growth|hyperpage}{133}
+\indexentry{NSFG|hyperpage}{133}
+\indexentry{DataFrame|hyperpage}{133}
+\indexentry{p-value|hyperpage}{133}
+\indexentry{null hypothesis|hyperpage}{133}
+\indexentry{permutation|hyperpage}{133}
+\indexentry{resampling|hyperpage}{134}
+\indexentry{replacement|hyperpage}{134}
+\indexentry{permutation|hyperpage}{134}
+\indexentry{model|hyperpage}{134}
+\indexentry{birth weight|hyperpage}{134}
+\indexentry{weight!birth|hyperpage}{134}
+\indexentry{pregnancy length|hyperpage}{134}
+\indexentry{hypothesis testing|hyperpage}{134}
+\indexentry{test statistic|hyperpage}{134}
+\indexentry{effect size|hyperpage}{134}
+\indexentry{null hypothesis|hyperpage}{134}
+\indexentry{p-value|hyperpage}{134}
+\indexentry{significant|hyperpage}{134}
+\indexentry{statistically significant|hyperpage}{134}
+\indexentry{permutation test|hyperpage}{134}
+\indexentry{resampling test|hyperpage}{134}
+\indexentry{one-sided test|hyperpage}{134}
+\indexentry{two-sided test|hyperpage}{134}
+\indexentry{test!one-sided|hyperpage}{134}
+\indexentry{test!two-sided|hyperpage}{134}
+\indexentry{chi-squared test|hyperpage}{135}
+\indexentry{false positive|hyperpage}{135}
+\indexentry{false negative|hyperpage}{135}
+\indexentry{power|hyperpage}{135}
+\indexentry{null hypothesis|hyperpage}{135}
+\indexentry{least squares fit|hyperpage}{137}
+\indexentry{linear least squares|hyperpage}{137}
+\indexentry{model|hyperpage}{137}
+\indexentry{residuals|hyperpage}{137}
+\indexentry{deviation|hyperpage}{137}
+\indexentry{slope|hyperpage}{138}
+\indexentry{intercept|hyperpage}{138}
+\indexentry{measurement error|hyperpage}{138}
+\indexentry{parameter|hyperpage}{138}
+\indexentry{MLE|hyperpage}{138}
+\indexentry{maximum likelihood estimator|hyperpage}{138}
+\indexentry{correlation|hyperpage}{138}
+\indexentry{computational methods|hyperpage}{138}
+\indexentry{squared residuals|hyperpage}{138}
+\indexentry{cost function|hyperpage}{138}
+\indexentry{LeastSquares|hyperpage}{139}
+\indexentry{parameter|hyperpage}{139}
+\indexentry{FitLine|hyperpage}{139}
+\indexentry{birth weight|hyperpage}{139}
+\indexentry{weight!birth|hyperpage}{139}
+\indexentry{age|hyperpage}{139}
+\indexentry{slope|hyperpage}{139}
+\indexentry{intercept|hyperpage}{139}
+\indexentry{dropna|hyperpage}{139}
+\indexentry{NaN|hyperpage}{139}
+\indexentry{birth weight|hyperpage}{140}
+\indexentry{weight!birth|hyperpage}{140}
+\indexentry{scatter plot|hyperpage}{140}
+\indexentry{plot!scatter|hyperpage}{140}
+\indexentry{model|hyperpage}{140}
+\indexentry{residuals|hyperpage}{140}
+\indexentry{visualization|hyperpage}{141}
+\indexentry{model|hyperpage}{141}
+\indexentry{nonlinear|hyperpage}{141}
+\indexentry{sampling bias|hyperpage}{142}
+\indexentry{bias!sampling|hyperpage}{142}
+\indexentry{measurement error|hyperpage}{142}
+\indexentry{sampling error|hyperpage}{142}
+\indexentry{estimation|hyperpage}{142}
+\indexentry{sampling error|hyperpage}{142}
+\indexentry{sampling distribution|hyperpage}{142}
+\indexentry{simulation|hyperpage}{142}
+\indexentry{replacement|hyperpage}{142}
+\indexentry{DataFrame|hyperpage}{142}
+\indexentry{resampling|hyperpage}{142}
+\indexentry{parameter|hyperpage}{142}
+\indexentry{sampling distribution|hyperpage}{142}
+\indexentry{standard error|hyperpage}{143}
+\indexentry{confidence interval|hyperpage}{143}
+\indexentry{thinkplot|hyperpage}{143}
+\indexentry{FillBetween|hyperpage}{143}
+\indexentry{goodness of fit|hyperpage}{144}
+\indexentry{standard deviation|hyperpage}{144}
+\indexentry{model|hyperpage}{144}
+\indexentry{birth weight|hyperpage}{144}
+\indexentry{weight!birth|hyperpage}{144}
+\indexentry{prediction|hyperpage}{144}
+\indexentry{coefficient of determination|hyperpage}{144}
+\indexentry{r-squared|hyperpage}{144}
+\indexentry{MSE|hyperpage}{145}
+\indexentry{Pearson coefficient of correlation|hyperpage}{145}
+\indexentry{coefficient of determination|hyperpage}{145}
+\indexentry{r-squared|hyperpage}{145}
+\indexentry{SAT|hyperpage}{145}
+\indexentry{IQ|hyperpage}{145}
+\indexentry{coefficient of determination|hyperpage}{145}
+\indexentry{r-squared|hyperpage}{145}
+\indexentry{prediction|hyperpage}{145}
+\indexentry{birth weight|hyperpage}{146}
+\indexentry{weight!birth|hyperpage}{146}
+\indexentry{model|hyperpage}{146}
+\indexentry{linear model|hyperpage}{146}
+\indexentry{null hypothesis|hyperpage}{146}
+\indexentry{permutation|hyperpage}{146}
+\indexentry{coefficient of determination|hyperpage}{146}
+\indexentry{r-squared|hyperpage}{146}
+\indexentry{significant|hyperpage}{146}
+\indexentry{statistically significant|hyperpage}{146}
+\indexentry{HypothesisTest|hyperpage}{146}
+\indexentry{model|hyperpage}{146}
+\indexentry{deviation|hyperpage}{147}
+\indexentry{null hypothesis|hyperpage}{147}
+\indexentry{permutation|hyperpage}{147}
+\indexentry{p-value|hyperpage}{147}
+\indexentry{dropna|hyperpage}{147}
+\indexentry{NaN|hyperpage}{147}
+\indexentry{null hypothesis|hyperpage}{147}
+\indexentry{symmetric|hyperpage}{147}
+\indexentry{sampling distribution|hyperpage}{147}
+\indexentry{p-value|hyperpage}{147}
+\indexentry{null hypothesis|hyperpage}{147}
+\indexentry{skewness|hyperpage}{147}
+\indexentry{parameter|hyperpage}{147}
+\indexentry{sampling distribution|hyperpage}{147}
+\indexentry{significant|hyperpage}{148}
+\indexentry{statistically significant|hyperpage}{148}
+\indexentry{sampling weight|hyperpage}{148}
+\indexentry{weight|hyperpage}{148}
+\indexentry{weighted resampling|hyperpage}{148}
+\indexentry{resampling!weighted|hyperpage}{148}
+\indexentry{standard error|hyperpage}{149}
+\indexentry{confidence interval|hyperpage}{149}
+\indexentry{birth weight|hyperpage}{149}
+\indexentry{weight!birth|hyperpage}{149}
+\indexentry{sampling distribution|hyperpage}{149}
+\indexentry{oversampling|hyperpage}{149}
+\indexentry{DataFrame|hyperpage}{149}
+\indexentry{resampling|hyperpage}{149}
+\indexentry{Cdf|hyperpage}{149}
+\indexentry{replacement|hyperpage}{149}
+\indexentry{sampling distribution|hyperpage}{149}
+\indexentry{standard error|hyperpage}{150}
+\indexentry{confidence interval|hyperpage}{150}
+\indexentry{Behavioral Risk Factor Surveillance System|hyperpage}{150}
+\indexentry{BRFSS|hyperpage}{150}
+\indexentry{model|hyperpage}{150}
+\indexentry{confidence interval|hyperpage}{150}
+\indexentry{standard error|hyperpage}{150}
+\indexentry{oversampling|hyperpage}{150}
+\indexentry{sampling weight|hyperpage}{150}
+\indexentry{linear fit|hyperpage}{150}
+\indexentry{least squares fit|hyperpage}{150}
+\indexentry{residuals|hyperpage}{150}
+\indexentry{goodness of fit|hyperpage}{151}
+\indexentry{coefficient of determination|hyperpage}{151}
+\indexentry{sampling weight|hyperpage}{151}
+\indexentry{model|hyperpage}{153}
+\indexentry{regression|hyperpage}{153}
+\indexentry{explanatory variable|hyperpage}{153}
+\indexentry{dependent variable|hyperpage}{153}
+\indexentry{birth weight|hyperpage}{153}
+\indexentry{weight!birth|hyperpage}{153}
+\indexentry{simple regression|hyperpage}{153}
+\indexentry{multiple regression|hyperpage}{153}
+\indexentry{regression model|hyperpage}{153}
+\indexentry{linear regression|hyperpage}{153}
+\indexentry{explanatory variable|hyperpage}{154}
+\indexentry{ordinary least squares|hyperpage}{154}
+\indexentry{parameter|hyperpage}{154}
+\indexentry{Anaconda|hyperpage}{154}
+\indexentry{StatsModels|hyperpage}{154}
+\indexentry{model|hyperpage}{154}
+\indexentry{explanatory variable|hyperpage}{154}
+\indexentry{dependent variable|hyperpage}{154}
+\indexentry{Patsy|hyperpage}{154}
+\indexentry{DataFrame|hyperpage}{154}
+\indexentry{model|hyperpage}{154}
+\indexentry{ordinary least squares|hyperpage}{154}
+\indexentry{RegressionResults|hyperpage}{154}
+\indexentry{Series|hyperpage}{155}
+\indexentry{parameter|hyperpage}{155}
+\indexentry{p-value|hyperpage}{155}
+\indexentry{significant|hyperpage}{155}
+\indexentry{statistically significant|hyperpage}{155}
+\indexentry{age|hyperpage}{155}
+\indexentry{model|hyperpage}{155}
+\indexentry{coefficient of determination|hyperpage}{155}
+\indexentry{r-squared|hyperpage}{155}
+\indexentry{residuals|hyperpage}{155}
+\indexentry{standard deviation|hyperpage}{155}
+\indexentry{birth weight|hyperpage}{155}
+\indexentry{weight!birth|hyperpage}{155}
+\indexentry{explanatory variable|hyperpage}{155}
+\indexentry{dependent variable|hyperpage}{155}
+\indexentry{RMSE|hyperpage}{155}
+\indexentry{predictive power|hyperpage}{155}
+\indexentry{multiple regression|hyperpage}{156}
+\indexentry{spurious relationship|hyperpage}{156}
+\indexentry{weight|hyperpage}{156}
+\indexentry{age|hyperpage}{156}
+\indexentry{birth weight|hyperpage}{156}
+\indexentry{weight!birth|hyperpage}{156}
+\indexentry{multiple regression|hyperpage}{156}
+\indexentry{model|hyperpage}{157}
+\indexentry{explanatory variable|hyperpage}{157}
+\indexentry{birth weight|hyperpage}{157}
+\indexentry{weight!birth|hyperpage}{157}
+\indexentry{categorical variable|hyperpage}{157}
+\indexentry{boolean|hyperpage}{157}
+\indexentry{coefficient of determination|hyperpage}{157}
+\indexentry{r-squared|hyperpage}{157}
+\indexentry{coefficient of determination|hyperpage}{157}
+\indexentry{r-squared|hyperpage}{157}
+\indexentry{p-value|hyperpage}{157}
+\indexentry{model|hyperpage}{157}
+\indexentry{birth weight|hyperpage}{158}
+\indexentry{weight!birth|hyperpage}{158}
+\indexentry{coefficient of determination|hyperpage}{158}
+\indexentry{r-squared|hyperpage}{158}
+\indexentry{nonlinear|hyperpage}{158}
+\indexentry{parabola|hyperpage}{158}
+\indexentry{birth weight|hyperpage}{158}
+\indexentry{weight!birth|hyperpage}{158}
+\indexentry{quadratic model|hyperpage}{158}
+\indexentry{model|hyperpage}{158}
+\indexentry{significant|hyperpage}{158}
+\indexentry{statistically significant|hyperpage}{158}
+\indexentry{explanatory variable|hyperpage}{158}
+\indexentry{dependent variable|hyperpage}{158}
+\indexentry{nonlinear|hyperpage}{158}
+\indexentry{p-value|hyperpage}{159}
+\indexentry{coefficient of determination|hyperpage}{159}
+\indexentry{r-squared|hyperpage}{159}
+\indexentry{explanatory variable|hyperpage}{159}
+\indexentry{age|hyperpage}{159}
+\indexentry{control variable|hyperpage}{159}
+\indexentry{birth weight|hyperpage}{159}
+\indexentry{weight!birth|hyperpage}{159}
+\indexentry{regression model|hyperpage}{159}
+\indexentry{coefficient of determination|hyperpage}{159}
+\indexentry{r-squared|hyperpage}{159}
+\indexentry{betting pool|hyperpage}{159}
+\indexentry{NSFG|hyperpage}{159}
+\indexentry{join|hyperpage}{159}
+\indexentry{SQL|hyperpage}{159}
+\indexentry{DataFrame|hyperpage}{160}
+\indexentry{betting pool|hyperpage}{160}
+\indexentry{race|hyperpage}{160}
+\indexentry{pandas|hyperpage}{160}
+\indexentry{join|hyperpage}{160}
+\indexentry{model|hyperpage}{161}
+\indexentry{coefficient of determination|hyperpage}{161}
+\indexentry{r-squared|hyperpage}{161}
+\indexentry{explanatory variable|hyperpage}{161}
+\indexentry{NaN|hyperpage}{161}
+\indexentry{cleaning|hyperpage}{161}
+\indexentry{prediction|hyperpage}{161}
+\indexentry{birth weight|hyperpage}{161}
+\indexentry{weight!birth|hyperpage}{161}
+\indexentry{predictive power|hyperpage}{161}
+\indexentry{pregnancy length|hyperpage}{161}
+\indexentry{sex|hyperpage}{161}
+\indexentry{explanatory variable|hyperpage}{162}
+\indexentry{race|hyperpage}{162}
+\indexentry{multiple birth|hyperpage}{162}
+\indexentry{birth weight|hyperpage}{162}
+\indexentry{weight!birth|hyperpage}{162}
+\indexentry{income|hyperpage}{162}
+\indexentry{wealth|hyperpage}{162}
+\indexentry{theory|hyperpage}{162}
+\indexentry{data mining|hyperpage}{162}
+\indexentry{model|hyperpage}{162}
+\indexentry{explanatory variable|hyperpage}{162}
+\indexentry{Patsy|hyperpage}{162}
+\indexentry{categorical variable|hyperpage}{162}
+\indexentry{boolean|hyperpage}{162}
+\indexentry{income|hyperpage}{163}
+\indexentry{control variable|hyperpage}{163}
+\indexentry{race|hyperpage}{163}
+\indexentry{weight|hyperpage}{163}
+\indexentry{income|hyperpage}{163}
+\indexentry{p-value|hyperpage}{163}
+\indexentry{model|hyperpage}{163}
+\indexentry{coefficient of determination|hyperpage}{163}
+\indexentry{r-squared|hyperpage}{163}
+\indexentry{significant|hyperpage}{163}
+\indexentry{statistically significant|hyperpage}{163}
+\indexentry{explanatory variable|hyperpage}{163}
+\indexentry{dependent variable|hyperpage}{163}
+\indexentry{categorical variable|hyperpage}{163}
+\indexentry{model|hyperpage}{164}
+\indexentry{logistic regression|hyperpage}{164}
+\indexentry{Poisson regression|hyperpage}{164}
+\indexentry{boolean|hyperpage}{164}
+\indexentry{betting pool|hyperpage}{164}
+\indexentry{sex|hyperpage}{164}
+\indexentry{regression model|hyperpage}{164}
+\indexentry{explanatory variable|hyperpage}{164}
+\indexentry{dependent variable|hyperpage}{164}
+\indexentry{ordinary least squares|hyperpage}{164}
+\indexentry{parameter|hyperpage}{164}
+\indexentry{probability|hyperpage}{164}
+\indexentry{odds|hyperpage}{164}
+\indexentry{regression model|hyperpage}{165}
+\indexentry{parameter|hyperpage}{165}
+\indexentry{logistic regression|hyperpage}{165}
+\indexentry{closed form|hyperpage}{165}
+\indexentry{MLE|hyperpage}{165}
+\indexentry{maximum likelihood estimator|hyperpage}{165}
+\indexentry{log odds|hyperpage}{166}
+\indexentry{likelihood|hyperpage}{166}
+\indexentry{Newton's method|hyperpage}{166}
+\indexentry{iterative solver|hyperpage}{166}
+\indexentry{StatsModels|hyperpage}{166}
+\indexentry{sex ratio|hyperpage}{166}
+\indexentry{logit function|hyperpage}{166}
+\indexentry{dependent variable|hyperpage}{166}
+\indexentry{boolean|hyperpage}{166}
+\indexentry{binary|hyperpage}{166}
+\indexentry{age|hyperpage}{167}
+\indexentry{race|hyperpage}{167}
+\indexentry{NumPy|hyperpage}{167}
+\indexentry{pandas|hyperpage}{167}
+\indexentry{DataFrame|hyperpage}{167}
+\indexentry{explanatory variable|hyperpage}{167}
+\indexentry{dependent variable|hyperpage}{167}
+\indexentry{exogenous variable|hyperpage}{167}
+\indexentry{endogenous variable|hyperpage}{167}
+\indexentry{Patsy|hyperpage}{167}
+\indexentry{p-value|hyperpage}{167}
+\indexentry{age|hyperpage}{167}
+\indexentry{model|hyperpage}{167}
+\indexentry{coefficient of determination|hyperpage}{167}
+\indexentry{r-squared|hyperpage}{167}
+\indexentry{pseudo r-squared|hyperpage}{167}
+\indexentry{categorical variable|hyperpage}{167}
+\indexentry{pseudo r-squared|hyperpage}{168}
+\indexentry{significant|hyperpage}{168}
+\indexentry{statistically significant|hyperpage}{168}
+\indexentry{model|hyperpage}{168}
+\indexentry{accuracy|hyperpage}{168}
+\indexentry{NumPy|hyperpage}{168}
+\indexentry{true positive|hyperpage}{168}
+\indexentry{true negative|hyperpage}{168}
+\indexentry{model|hyperpage}{169}
+\indexentry{DataFrame|hyperpage}{169}
+\indexentry{betting pool|hyperpage}{169}
+\indexentry{date of birth|hyperpage}{169}
+\indexentry{Trivers-Willard hypothesis|hyperpage}{169}
+\indexentry{sex ratio|hyperpage}{169}
+\indexentry{significant|hyperpage}{169}
+\indexentry{statistically significant|hyperpage}{169}
+\indexentry{data mining|hyperpage}{169}
+\indexentry{StatsModels|hyperpage}{170}
+\indexentry{Poisson regression|hyperpage}{170}
+\indexentry{categorical variable|hyperpage}{170}
+\indexentry{marital status|hyperpage}{170}
+\indexentry{regression|hyperpage}{170}
+\indexentry{dependent variable|hyperpage}{170}
+\indexentry{endogenous variable|hyperpage}{170}
+\indexentry{explanatory variable|hyperpage}{170}
+\indexentry{exogenous variable|hyperpage}{170}
+\indexentry{simple regression|hyperpage}{170}
+\indexentry{multiple regression|hyperpage}{170}
+\indexentry{linear regression|hyperpage}{170}
+\indexentry{ordinary least squares|hyperpage}{171}
+\indexentry{spurious relationship|hyperpage}{171}
+\indexentry{control variable|hyperpage}{171}
+\indexentry{proxy variable|hyperpage}{171}
+\indexentry{categorical variable|hyperpage}{171}
+\indexentry{join|hyperpage}{171}
+\indexentry{DataFrame|hyperpage}{171}
+\indexentry{data mining|hyperpage}{171}
+\indexentry{logistic regression|hyperpage}{171}
+\indexentry{Poisson regression|hyperpage}{171}
+\indexentry{odds|hyperpage}{171}
+\indexentry{time series|hyperpage}{173}
+\indexentry{hockey stick graph|hyperpage}{173}
+\indexentry{Price of Weed|hyperpage}{173}
+\indexentry{cannabis|hyperpage}{173}
+\indexentry{ethics|hyperpage}{173}
+\indexentry{pandas|hyperpage}{174}
+\indexentry{DataFrame|hyperpage}{174}
+\indexentry{NumPy|hyperpage}{174}
+\indexentry{price|hyperpage}{174}
+\indexentry{transaction|hyperpage}{174}
+\indexentry{equally spaced data|hyperpage}{174}
+\indexentry{DataFrame|hyperpage}{175}
+\indexentry{groupby|hyperpage}{175}
+\indexentry{groupby|hyperpage}{175}
+\indexentry{aggregate|hyperpage}{175}
+\indexentry{NumPy|hyperpage}{176}
+\indexentry{datetime64|hyperpage}{176}
+\indexentry{DataFrame|hyperpage}{176}
+\indexentry{DataFrame|hyperpage}{176}
+\indexentry{visualization|hyperpage}{176}
+\indexentry{thinkplot|hyperpage}{176}
+\indexentry{pyplot|hyperpage}{176}
+\indexentry{ticks|hyperpage}{176}
+\indexentry{xticks|hyperpage}{176}
+\indexentry{missing values|hyperpage}{176}
+\indexentry{price|hyperpage}{178}
+\indexentry{DataFrame|hyperpage}{178}
+\indexentry{StatsModels|hyperpage}{178}
+\indexentry{linear regression|hyperpage}{178}
+\indexentry{p-value|hyperpage}{178}
+\indexentry{significant|hyperpage}{178}
+\indexentry{statistically significant|hyperpage}{178}
+\indexentry{explanatory variable|hyperpage}{178}
+\indexentry{significant|hyperpage}{178}
+\indexentry{statistically significant|hyperpage}{178}
+\indexentry{NumPy|hyperpage}{179}
+\indexentry{explanatory variable|hyperpage}{179}
+\indexentry{dependent variable|hyperpage}{179}
+\indexentry{exogenous variable|hyperpage}{179}
+\indexentry{endogenous variable|hyperpage}{179}
+\indexentry{model|hyperpage}{179}
+\indexentry{fitted values|hyperpage}{179}
+\indexentry{trend|hyperpage}{179}
+\indexentry{weight|hyperpage}{179}
+\indexentry{residuals|hyperpage}{180}
+\indexentry{model|hyperpage}{180}
+\indexentry{moving average|hyperpage}{180}
+\indexentry{trend|hyperpage}{180}
+\indexentry{seasonality|hyperpage}{180}
+\indexentry{noise|hyperpage}{180}
+\indexentry{window|hyperpage}{180}
+\indexentry{rolling mean|hyperpage}{180}
+\indexentry{mean!rolling|hyperpage}{180}
+\indexentry{pandas|hyperpage}{180}
+\indexentry{Series|hyperpage}{180}
+\indexentry{missing values|hyperpage}{181}
+\indexentry{DataFrame|hyperpage}{181}
+\indexentry{reindex|hyperpage}{181}
+\indexentry{interval|hyperpage}{181}
+\indexentry{date range|hyperpage}{181}
+\indexentry{pandas|hyperpage}{181}
+\indexentry{window|hyperpage}{181}
+\indexentry{missing values|hyperpage}{181}
+\indexentry{noise|hyperpage}{181}
+\indexentry{smoothing|hyperpage}{181}
+\indexentry{reindex|hyperpage}{181}
+\indexentry{exponentially-weighted moving average|hyperpage}{181}
+\indexentry{EWMA|hyperpage}{181}
+\indexentry{span|hyperpage}{182}
+\indexentry{window|hyperpage}{182}
+\indexentry{missing values|hyperpage}{182}
+\indexentry{missing values|hyperpage}{182}
+\indexentry{seasonality|hyperpage}{182}
+\indexentry{Series|hyperpage}{182}
+\indexentry{fillna|hyperpage}{182}
+\indexentry{resampling|hyperpage}{183}
+\indexentry{noise|hyperpage}{183}
+\indexentry{dropna|hyperpage}{183}
+\indexentry{fillna|hyperpage}{183}
+\indexentry{NaN|hyperpage}{183}
+\indexentry{resampling|hyperpage}{183}
+\indexentry{missing values|hyperpage}{183}
+\indexentry{correlation!serial|hyperpage}{184}
+\indexentry{serial correlation|hyperpage}{184}
+\indexentry{lag|hyperpage}{184}
+\indexentry{NaN|hyperpage}{184}
+\indexentry{EWMA|hyperpage}{184}
+\indexentry{pandas|hyperpage}{184}
+\indexentry{seasonality|hyperpage}{184}
+\indexentry{significant|hyperpage}{185}
+\indexentry{statistically significant|hyperpage}{185}
+\indexentry{autocorrelation function|hyperpage}{185}
+\indexentry{StatsModels|hyperpage}{185}
+\indexentry{acf|hyperpage}{185}
+\indexentry{lag|hyperpage}{185}
+\indexentry{p-value|hyperpage}{185}
+\indexentry{significant|hyperpage}{185}
+\indexentry{statistically significant|hyperpage}{185}
+\indexentry{false positive|hyperpage}{185}
+\indexentry{resampling|hyperpage}{186}
+\indexentry{simulation|hyperpage}{186}
+\indexentry{uniform distribution|hyperpage}{186}
+\indexentry{distribution!uniform|hyperpage}{186}
+\indexentry{DataFrame|hyperpage}{186}
+\indexentry{Series|hyperpage}{186}
+\indexentry{boolean|hyperpage}{186}
+\indexentry{significant|hyperpage}{187}
+\indexentry{statistically significant|hyperpage}{187}
+\indexentry{residuals|hyperpage}{187}
+\indexentry{lag|hyperpage}{187}
+\indexentry{prediction|hyperpage}{187}
+\indexentry{explanatory variable|hyperpage}{187}
+\indexentry{linear regression|hyperpage}{187}
+\indexentry{pandas|hyperpage}{187}
+\indexentry{DataFrame|hyperpage}{187}
+\indexentry{sampling error|hyperpage}{187}
+\indexentry{parameter|hyperpage}{187}
+\indexentry{noise|hyperpage}{188}
+\indexentry{modeling error|hyperpage}{188}
+\indexentry{resampling|hyperpage}{188}
+\indexentry{DataFrame|hyperpage}{188}
+\indexentry{price|hyperpage}{188}
+\indexentry{model|hyperpage}{189}
+\indexentry{residuals|hyperpage}{189}
+\indexentry{resampling|hyperpage}{189}
+\indexentry{confidence interval|hyperpage}{189}
+\indexentry{FillBetween|hyperpage}{190}
+\indexentry{sampling error|hyperpage}{190}
+\indexentry{noise|hyperpage}{190}
+\indexentry{modeling error|hyperpage}{190}
+\indexentry{stationary model|hyperpage}{190}
+\indexentry{parameter|hyperpage}{190}
+\indexentry{slope|hyperpage}{191}
+\indexentry{simulation|hyperpage}{191}
+\indexentry{confidence interval|hyperpage}{191}
+\indexentry{interval|hyperpage}{191}
+\indexentry{model|hyperpage}{191}
+\indexentry{time series|hyperpage}{192}
+\indexentry{Janert, Philipp|hyperpage}{192}
+\indexentry{nonlinear|hyperpage}{192}
+\indexentry{linear model|hyperpage}{192}
+\indexentry{quadratic model|hyperpage}{192}
+\indexentry{prediction|hyperpage}{192}
+\indexentry{HypothesisTest|hyperpage}{192}
+\indexentry{p-value|hyperpage}{192}
+\indexentry{lag|hyperpage}{192}
+\indexentry{quadratic model|hyperpage}{192}
+\indexentry{significant|hyperpage}{192}
+\indexentry{statistically significant|hyperpage}{192}
+\indexentry{EWMA|hyperpage}{192}
+\indexentry{slope|hyperpage}{193}
+\indexentry{prediction|hyperpage}{193}
+\indexentry{missing values|hyperpage}{193}
+\indexentry{Series|hyperpage}{193}
+\indexentry{reindex|hyperpage}{193}
+\indexentry{fillna|hyperpage}{193}
+\indexentry{time series|hyperpage}{193}
+\indexentry{window|hyperpage}{193}
+\indexentry{moving average|hyperpage}{193}
+\indexentry{rolling mean|hyperpage}{193}
+\indexentry{exponentially-weighted moving average|hyperpage}{193}
+\indexentry{EWMA|hyperpage}{193}
+\indexentry{span|hyperpage}{194}
+\indexentry{serial correlation|hyperpage}{194}
+\indexentry{lag|hyperpage}{194}
+\indexentry{autocorrelation function|hyperpage}{194}
+\indexentry{model|hyperpage}{194}
+\indexentry{stationary model|hyperpage}{194}
+\indexentry{survival analysis|hyperpage}{195}
+\indexentry{mechanical component|hyperpage}{195}
+\indexentry{electrical component|hyperpage}{195}
+\indexentry{survival rate|hyperpage}{195}
+\indexentry{survival curve|hyperpage}{195}
+\indexentry{complementary CDF|hyperpage}{195}
+\indexentry{CDF!complementary|hyperpage}{195}
+\indexentry{CCDF|hyperpage}{195}
+\indexentry{pregnancy length|hyperpage}{196}
+\indexentry{DataFrame|hyperpage}{196}
+\indexentry{boolean|hyperpage}{196}
+\indexentry{query|hyperpage}{196}
+\indexentry{Cdf|hyperpage}{196}
+\indexentry{pregnancy length|hyperpage}{196}
+\indexentry{SurvivalFunction|hyperpage}{196}
+\indexentry{property|hyperpage}{197}
+\indexentry{trimester|hyperpage}{197}
+\indexentry{thinkplot|hyperpage}{197}
+\indexentry{pregnancy length|hyperpage}{198}
+\indexentry{hazard function|hyperpage}{198}
+\indexentry{pandas|hyperpage}{198}
+\indexentry{Series|hyperpage}{198}
+\indexentry{wrapper|hyperpage}{198}
+\indexentry{HazardFunction|hyperpage}{199}
+\indexentry{pregnancy length|hyperpage}{199}
+\indexentry{survival curve|hyperpage}{199}
+\indexentry{CDF|hyperpage}{199}
+\indexentry{diagnosis|hyperpage}{199}
+\indexentry{incomplete information|hyperpage}{199}
+\indexentry{marital status|hyperpage}{200}
+\indexentry{age|hyperpage}{200}
+\indexentry{Kaplan-Meier estimation|hyperpage}{200}
+\indexentry{hazard function|hyperpage}{200}
+\indexentry{at risk|hyperpage}{200}
+\indexentry{Counter|hyperpage}{201}
+\indexentry{survival curve|hyperpage}{201}
+\indexentry{HazardFunction|hyperpage}{202}
+\indexentry{marital status|hyperpage}{202}
+\indexentry{date of birth|hyperpage}{202}
+\indexentry{century month|hyperpage}{202}
+\indexentry{NaN|hyperpage}{202}
+\indexentry{age|hyperpage}{202}
+\indexentry{hazard function|hyperpage}{202}
+\indexentry{noise|hyperpage}{203}
+\indexentry{cumulative product|hyperpage}{203}
+\indexentry{SurvivalFunction|hyperpage}{203}
+\indexentry{Cdf|hyperpage}{203}
+\indexentry{complementary CDF|hyperpage}{203}
+\indexentry{Newsweek|hyperpage}{204}
+\indexentry{ethics|hyperpage}{204}
+\indexentry{confidence interval|hyperpage}{204}
+\indexentry{modeling error|hyperpage}{204}
+\indexentry{sampling error|hyperpage}{204}
+\indexentry{measurement error|hyperpage}{205}
+\indexentry{resampling|hyperpage}{205}
+\indexentry{DataFrame|hyperpage}{205}
+\indexentry{weighted resampling|hyperpage}{205}
+\indexentry{FillBetween|hyperpage}{205}
+\indexentry{confidence interval|hyperpage}{205}
+\indexentry{sampling weight|hyperpage}{205}
+\indexentry{cohort|hyperpage}{206}
+\indexentry{cohort effect|hyperpage}{206}
+\indexentry{pandas|hyperpage}{207}
+\indexentry{DataFrame|hyperpage}{207}
+\indexentry{DateTimeIndex|hyperpage}{207}
+\indexentry{Index|hyperpage}{207}
+\indexentry{century month|hyperpage}{207}
+\indexentry{resampling|hyperpage}{207}
+\indexentry{sampling error|hyperpage}{207}
+\indexentry{pandas|hyperpage}{207}
+\indexentry{DataFrame|hyperpage}{207}
+\indexentry{groupby|hyperpage}{207}
+\indexentry{marital status|hyperpage}{208}
+\indexentry{Newsweek|hyperpage}{208}
+\indexentry{prediction|hyperpage}{208}
+\indexentry{extrapolation|hyperpage}{209}
+\indexentry{HazardFunction|hyperpage}{209}
+\indexentry{pandas|hyperpage}{209}
+\indexentry{Series|hyperpage}{209}
+\indexentry{groupby|hyperpage}{209}
+\indexentry{visualization|hyperpage}{210}
+\indexentry{pregnancy length|hyperpage}{210}
+\indexentry{Pmf|hyperpage}{211}
+\indexentry{Cdf|hyperpage}{211}
+\indexentry{pregnancy length|hyperpage}{211}
+\indexentry{expected remaining lifetime|hyperpage}{211}
+\indexentry{Pmf|hyperpage}{211}
+\indexentry{pregnancy length|hyperpage}{212}
+\indexentry{pregnancy length|hyperpage}{212}
+\indexentry{memoryless|hyperpage}{213}
+\indexentry{NBUE|hyperpage}{213}
+\indexentry{UBNE|hyperpage}{213}
+\indexentry{Cdf|hyperpage}{213}
+\indexentry{median|hyperpage}{213}
+\indexentry{inf|hyperpage}{213}
+\indexentry{pregnancy length|hyperpage}{214}
+\indexentry{Pmf|hyperpage}{214}
+\indexentry{divorce|hyperpage}{214}
+\indexentry{marital status|hyperpage}{214}
+\indexentry{resampling|hyperpage}{214}
+\indexentry{groupby|hyperpage}{214}
+\indexentry{survival analysis|hyperpage}{214}
+\indexentry{survival curve|hyperpage}{214}
+\indexentry{hazard function|hyperpage}{214}
+\indexentry{Kaplan-Meier estimation|hyperpage}{214}
+\indexentry{cohort|hyperpage}{215}
+\indexentry{cohort effect|hyperpage}{215}
+\indexentry{NBUE|hyperpage}{215}
+\indexentry{UBNE|hyperpage}{215}
+\indexentry{resampling|hyperpage}{217}
+\indexentry{analytic methods|hyperpage}{217}
+\indexentry{computational methods|hyperpage}{217}
+\indexentry{normal distribution|hyperpage}{217}
+\indexentry{distribution!normal|hyperpage}{217}
+\indexentry{Gaussian distribution|hyperpage}{217}
+\indexentry{distribution!Gaussian|hyperpage}{217}
+\indexentry{gorilla|hyperpage}{217}
+\indexentry{standard error|hyperpage}{218}
+\indexentry{standard deviation|hyperpage}{218}
+\indexentry{confidence interval|hyperpage}{218}
+\indexentry{sampling distribution|hyperpage}{218}
+\indexentry{analysis|hyperpage}{218}
+\indexentry{linear transformation|hyperpage}{218}
+\indexentry{addition, closed under|hyperpage}{218}
+\indexentry{linear transformation|hyperpage}{218}
+\indexentry{sampling distribution|hyperpage}{219}
+\indexentry{gorilla|hyperpage}{219}
+\indexentry{weight|hyperpage}{219}
+\indexentry{biased estimator|hyperpage}{219}
+\indexentry{estimator!biased|hyperpage}{219}
+\indexentry{standard error|hyperpage}{219}
+\indexentry{standard deviation|hyperpage}{219}
+\indexentry{inverse CDF|hyperpage}{219}
+\indexentry{CDF, inverse|hyperpage}{219}
+\indexentry{confidence interval|hyperpage}{219}
+\indexentry{SciPy|hyperpage}{220}
+\indexentry{normal distribution|hyperpage}{220}
+\indexentry{wrapper|hyperpage}{220}
+\indexentry{closed form|hyperpage}{220}
+\indexentry{percentile|hyperpage}{220}
+\indexentry{simulation|hyperpage}{220}
+\indexentry{Normal|hyperpage}{220}
+\indexentry{gorilla|hyperpage}{220}
+\indexentry{sampling distribution|hyperpage}{221}
+\indexentry{sample size|hyperpage}{221}
+\indexentry{standard deviation|hyperpage}{221}
+\indexentry{confidence interval|hyperpage}{221}
+\indexentry{sum|hyperpage}{221}
+\indexentry{normal distribution|hyperpage}{221}
+\indexentry{distribution!normal|hyperpage}{221}
+\indexentry{Gaussian distribution|hyperpage}{221}
+\indexentry{distribution!Gaussian|hyperpage}{221}
+\indexentry{standard deviation|hyperpage}{221}
+\indexentry{Central Limit Theorem|hyperpage}{222}
+\indexentry{CLT|hyperpage}{222}
+\indexentry{independent|hyperpage}{222}
+\indexentry{identical|hyperpage}{222}
+\indexentry{mean|hyperpage}{222}
+\indexentry{variance|hyperpage}{222}
+\indexentry{Pareto distribution|hyperpage}{222}
+\indexentry{distribution!Pareto|hyperpage}{222}
+\indexentry{exponential distribution|hyperpage}{222}
+\indexentry{distribution!exponential|hyperpage}{222}
+\indexentry{lognormal distribution|hyperpage}{222}
+\indexentry{distribution!lognormal|hyperpage}{222}
+\indexentry{skewness|hyperpage}{222}
+\indexentry{normal distribution|hyperpage}{222}
+\indexentry{distribution!normal|hyperpage}{222}
+\indexentry{Gaussian distribution|hyperpage}{222}
+\indexentry{distribution!Gaussian|hyperpage}{222}
+\indexentry{Central Limit Theorem|hyperpage}{222}
+\indexentry{CLT|hyperpage}{222}
+\indexentry{NumPy|hyperpage}{223}
+\indexentry{thinkplot|hyperpage}{223}
+\indexentry{normal probability plot|hyperpage}{223}
+\indexentry{normal probability plot|hyperpage}{223}
+\indexentry{lognormal distribution|hyperpage}{223}
+\indexentry{distribution!lognormal|hyperpage}{223}
+\indexentry{skewness|hyperpage}{223}
+\indexentry{Pareto distribution|hyperpage}{223}
+\indexentry{distribution!Pareto|hyperpage}{223}
+\indexentry{Central Limit Theorem|hyperpage}{223}
+\indexentry{CLT|hyperpage}{223}
+\indexentry{normal probability plot|hyperpage}{223}
+\indexentry{inverse CDF|hyperpage}{226}
+\indexentry{CDF, inverse|hyperpage}{226}
+\indexentry{correlation|hyperpage}{226}
+\indexentry{random number|hyperpage}{226}
+\indexentry{iterator|hyperpage}{226}
+\indexentry{standard deviation|hyperpage}{226}
+\indexentry{standard normal distribution|hyperpage}{226}
+\indexentry{inverse CDF|hyperpage}{226}
+\indexentry{CDF, inverse|hyperpage}{226}
+\indexentry{percent point function|hyperpage}{226}
+\indexentry{normal probability plot|hyperpage}{226}
+\indexentry{correlation|hyperpage}{226}
+\indexentry{pregnancy length|hyperpage}{227}
+\indexentry{Central Limit Theorem|hyperpage}{227}
+\indexentry{CLT|hyperpage}{227}
+\indexentry{p-value|hyperpage}{227}
+\indexentry{null hypothesis|hyperpage}{227}
+\indexentry{hypothesis testing|hyperpage}{227}
+\indexentry{sampling distribution|hyperpage}{227}
+\indexentry{Central Limit Theorem|hyperpage}{228}
+\indexentry{CLT|hyperpage}{228}
+\indexentry{Normal|hyperpage}{228}
+\indexentry{sampling distribution|hyperpage}{228}
+\indexentry{null hypothesis|hyperpage}{228}
+\indexentry{p-value|hyperpage}{228}
+\indexentry{one-sided test|hyperpage}{228}
+\indexentry{two-sided test|hyperpage}{228}
+\indexentry{symmetric|hyperpage}{228}
+\indexentry{p-value|hyperpage}{228}
+\indexentry{birth weight|hyperpage}{228}
+\indexentry{weight!birth|hyperpage}{228}
+\indexentry{permutation|hyperpage}{228}
+\indexentry{significant|hyperpage}{228}
+\indexentry{statistically significant|hyperpage}{228}
+\indexentry{Pearson coefficient of correlation|hyperpage}{229}
+\indexentry{correlation|hyperpage}{229}
+\indexentry{null hypothesis|hyperpage}{229}
+\indexentry{sampling distribution|hyperpage}{229}
+\indexentry{NumPy|hyperpage}{229}
+\indexentry{SciPy|hyperpage}{229}
+\indexentry{Student's t-distribution|hyperpage}{229}
+\indexentry{distribution!Student's t|hyperpage}{229}
+\indexentry{degrees of freedom|hyperpage}{229}
+\indexentry{Central Limit Theorem|hyperpage}{229}
+\indexentry{CLT|hyperpage}{229}
+\indexentry{null hypothesis|hyperpage}{229}
+\indexentry{resampling|hyperpage}{229}
+\indexentry{analytic distribution|hyperpage}{230}
+\indexentry{SciPy|hyperpage}{230}
+\indexentry{p-value|hyperpage}{230}
+\indexentry{deviation|hyperpage}{231}
+\indexentry{null hypothesis|hyperpage}{231}
+\indexentry{sampling distribution|hyperpage}{231}
+\indexentry{chi-squared test|hyperpage}{231}
+\indexentry{chi-squared distribution|hyperpage}{231}
+\indexentry{distribution!chi-squared|hyperpage}{231}
+\indexentry{SciPy|hyperpage}{231}
+\indexentry{resampling|hyperpage}{231}
+\indexentry{tail|hyperpage}{231}
+\indexentry{test statistic|hyperpage}{231}
+\indexentry{p-value|hyperpage}{231}
+\indexentry{degrees of freedom|hyperpage}{232}
+\indexentry{resampling|hyperpage}{232}
+\indexentry{permutation|hyperpage}{232}
+\indexentry{computational methods|hyperpage}{232}
+\indexentry{p-value|hyperpage}{232}
+\indexentry{null hypothesis|hyperpage}{232}
+\indexentry{robust|hyperpage}{232}
+\indexentry{debugging|hyperpage}{232}
+\indexentry{exploration|hyperpage}{232}
+\indexentry{model|hyperpage}{233}
+\indexentry{birth weight|hyperpage}{233}
+\indexentry{weight!birth|hyperpage}{233}
+\indexentry{lognormal distribution|hyperpage}{233}
+\indexentry{distribution!lognormal|hyperpage}{233}
+\indexentry{adult weight|hyperpage}{233}
+\indexentry{Central Limit Theorem|hyperpage}{233}
+\indexentry{CLT|hyperpage}{233}
+\indexentry{model|hyperpage}{233}
+\indexentry{logarithm|hyperpage}{233}
+\indexentry{product|hyperpage}{233}
+\indexentry{null hypothesis|hyperpage}{233}
+\indexentry{sampling distribution|hyperpage}{233}
+\indexentry{standard error|hyperpage}{234}
+\indexentry{standard deviation|hyperpage}{234}
+\indexentry{confidence interval|hyperpage}{234}
+\indexentry{standard error|hyperpage}{234}
+\indexentry{significant|hyperpage}{234}
+\indexentry{statistically significant|hyperpage}{234}
+\indexentry{sampling distribution|hyperpage}{234}
+\indexentry{gender gap|hyperpage}{234}
+\indexentry{significant|hyperpage}{234}
+\indexentry{statistically significant|hyperpage}{234}
